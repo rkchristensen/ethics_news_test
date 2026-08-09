@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-08-08T13:59:48.975134+00:00",
+  "updated_at": "2026-08-09T14:01:43.757250+00:00",
   "government": [
     {
-      "title": "Federal charges come weeks after Manny Abarca claimed Jackson County corruption - Kansas City Star",
-      "short_title": "Federal charges come weeks after Manny Abarca claimed Jackson County corruption - Kansas City\u2026",
+      "title": "Federal charges come weeks after Manny Abarca claimed Jackson County corruption - kansascity.com",
+      "short_title": "Federal charges come weeks after Manny Abarca claimed Jackson County corruption - kansascity.c\u2026",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTTkpEdFJ2cElvTFRZUUJLdWstVnBla0Z0U296SEp2OHpPZGJMclF3ZnREWmpUS2pqU2VzZ2JxVEdCLWUybXVlZFNZRk5pMUhoM1VyaW1pTUM2dXdMUG52aUFjTFYzTVhlRExVMElaS1N5aGhabmtLUGsxcGliamc?oc=5",
-      "source": "Kansas City Star",
+      "source": "kansascity.com",
       "published_at": "2026-08-08T10:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Cannabis, corruption probes and Daniel Andrews: Ben Carroll says scandals have eroded public trust \u2013 how will he fix it? - The Guardian",
+      "short_title": "Cannabis, corruption probes and Daniel Andrews: Ben Carroll says scandals have eroded public t\u2026",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRXcxWEMwWXZVN2tWV21vSE5jVEl5YzZqcFg1WlVsLW01Wnd3UVZMRzFzWG94OFdCNVpKMUt5SzdlelJxMXNvbHo1di1YdTlWcnV3UE4wTUxlN1d6QXpkMnJRdGVaemhLanNWeGxYdFlyNkNzcDFQTEx4OUJFN2xLLWJtcFFNNEgtempGbUpLTHllNFRPNXV4R1VURHpnbl94OWdCU1ZvZVZaYXVvT2hhRVk1Y0cwTDZZNkRiV1dsZlZYb1JOV2Nv?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-08-07T23:51:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -18,10 +26,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "Curren Price's attempt to dismiss public corruption case fails - nbclosangeles.com",
-      "short_title": "Curren Price's attempt to dismiss public corruption case fails - nbclosangeles.com",
+      "title": "Curren Price's attempt to dismiss public corruption case fails - NBC Los Angeles",
+      "short_title": "Curren Price's attempt to dismiss public corruption case fails - NBC Los Angeles",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXZsUU14NmFzT0VlN3IxTDgwYlhXTDBSbXFOdUkwQU5BZ3RrQTVnNGVwbTdpVTdtc1A0d1ZKLTJwU1hoWWt1LXpxZ2tORy1IdmU0Q2hVRVlIbC1pRzRjbDBiVndCdmpONnJuQXpWRUJkRzRISENZSk1ZdzRrdk5rRjNYeGhkNWh2YnFULVo3ONIBlwFBVV95cUxNbG9ZaWNwOTY2YzNFazE0ODZ2TVctSUlPOC1YY0VqMWI3WU9uU0J5Yjk5WnlCQzJJcUxfd0dtSGFTeV9pS21GajNrMXBQLW9mODJ5Q2RSS093VFJhVmhXdHNwQnh0LVZsRVFiRFRCblg5LWQyb3pQMmhxQ05jeEtfcVhZTkpxT2FmcFJlN3NFMjJ2ZU01UGdv?oc=5",
-      "source": "nbclosangeles.com",
+      "source": "NBC Los Angeles",
       "published_at": "2026-08-07T18:57:28+00:00",
       "sentiment": "negative"
     },
@@ -58,11 +66,19 @@
       "sentiment": "negative"
     },
     {
-      "title": "Read the indictment: Interim Jackson Co. Executive accused of bribery - Salina Post",
-      "short_title": "Read the indictment: Interim Jackson Co. Executive accused of bribery - Salina Post",
+      "title": "Read the indictment: Interim Jackson Co. Executive accused of bribery - salinapost.com",
+      "short_title": "Read the indictment: Interim Jackson Co. Executive accused of bribery - salinapost.com",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOZ2p5clRWTXdrUnZLblJyVHFINlNfcTBaSkFnMUc3cGQtcWFkQnBMSFR3RzUxdmFTVzBtRTNLQUpna3QyNWlYZGk0amdNYjNnY3ZGeFRFbjVwOFQ4RWhCQTNVYjBJeERnR0EzcEotTm9uSnM?oc=5",
-      "source": "Salina Post",
+      "source": "salinapost.com",
       "published_at": "2026-08-07T10:34:51+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Interim Jackson County executive indicted in election bribery case - KTTN",
+      "short_title": "Interim Jackson County executive indicted in election bribery case - KTTN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3FSYkJiYmxfWE9VU2Yyb1lPTHBrUTVTS01JVGhvNmdyLWxvQXU0WHR0RVU4OFFoRmFSMm45RWJuZFJUMmNXQnRqbDJJdU1fQWdNcVMtZWFQc0NQZ29GS0Q3YWtUWDkwcmFjQmZRVFZ1M1NYMFlIdXpPOEhIQUkzd2RnenJJOURIQ3BFS19zWG5EZw?oc=5",
+      "source": "KTTN",
+      "published_at": "2026-08-07T10:05:54+00:00",
       "sentiment": "negative"
     },
     {
@@ -74,10 +90,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "Here\u2019s the last time a Jackson County executive faced a major corruption scandal - Kansas City Star",
-      "short_title": "Here\u2019s the last time a Jackson County executive faced a major corruption scandal - Kansas City\u2026",
+      "title": "Here\u2019s the last time a Jackson County executive faced a major corruption scandal - kansascity.com",
+      "short_title": "Here\u2019s the last time a Jackson County executive faced a major corruption scandal - kansascity.\u2026",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vdXNEdURDQ19rRVNJa1I5dUc5OXlIU2RiVGJrM1hLWTlxWEhmUnZPYnN3WTd6R3lNbVMxM3FSMHRvTlE2aEFVbXgzSzVmYXAzUVBBZWEycld3UW9JeWNvUk0tWkRLMmJJVFNpR2ZNN2toNzBpa0xadUs5Rzhod9IBfkFVX3lxTFBxY3AzYzJyeWtMY3RmVmpjX3NVd1FHUXlhM1plZGhhTEhEaWMzR3p5SWw5NmlLdG9UU09INHd4LUNJVmRfcV9MVkdHSkw4eHlDTjJyQXlHRTFDdG9JazFOVWFFbzBWVmk3V3N5UWpHaDgxYmRmajF1M3VfeUNsUQ?oc=5",
-      "source": "Kansas City Star",
+      "source": "kansascity.com",
       "published_at": "2026-08-06T23:10:59+00:00",
       "sentiment": "negative"
     },
@@ -95,14 +111,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNnRmNGxhRndVc3hGb1FfakE0dW94OGxDa282M25tVVEzLXprZEU1X2JoSTRyUXFFSGNzRTR4clNvMlh3dEtlZmNTRF91S0pRSVJnc0hqQXZZbHBMVXZvby1UVFhXVXowS2RDTG5uM0wyTjN1VlJpb0tEelhEU0VNOFAteGV6TXBOWFZFV3BEZ2tpWXNwbFVvSllzSGN1MVRDRUw4VHZNRmQxdzJwZEQtdmFsZXpYS1JVWFNESTRYQWlmVnRSLVFiYTJ5Q3pSZ1JqdGwyMlFFUlo?oc=5",
       "source": "11Alive.com",
       "published_at": "2026-08-06T21:37:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "\u2018Just took care of us\u2019: Arrest warrant details alleged bribery scheme involving EBR Schools superintendent - WAFB",
-      "short_title": "\u2018Just took care of us\u2019: Arrest warrant details alleged bribery scheme involving EBR Schools su\u2026",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQnFVN0JXd0J3dHNRM08waERRUmpTWW9MRHBFTDlNYVE4U3EwVGFuWHRJZnhwZElrMExCZnYwSlFHMWk1QWZKUjBDQllfSVRTeUdLczNEUjVoZTJlcWtxcDlFZVZaMnZYaFlOOVI2MlF5eGJCZUlCQ1N3LU1iZ3FoNS1fbFFjNjFGSmp5ZlpxR0xBZEJiNHlkMHEwQWo1dHVWVm5EU1R0MHdIbTVha1ZXR3ViLXJoMkZ3TDRUaUsxU284Z0lrbjAxZVpQSk9sUdIB4gFBVV95cUxOT2l1dmp4TDR5OE0wOEJIMnE3YkozVUo1Q2JUOEF5TXZhZlhMbUtfM0JGT2lSSzdVMFdEUktQQzNobXYxUlltZEFwRk5kLVZtN0tuY0pDTjdVeGdBLVd3cTVwTXFPOXJTVk9MT3hMUzRKcUZsS2VsZmoyOUFqa0FraFgwcnN2SnBLaU1vZms5RWlNR2tua2FocDRwOHZvdGlmWTlLV2NZWFFGMGZSTkZQZUpGZmxEUHEwUU9JZ1poNENpYVpVcUktR2k4cUZ5anhTakFqX0gyQlBJbjRhNWRqWHN3?oc=5",
-      "source": "WAFB",
-      "published_at": "2026-08-06T18:34:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -162,35 +170,27 @@
       "sentiment": "negative"
     },
     {
-      "title": "Confronting Corruption - Brennan Center for Justice",
-      "short_title": "Confronting Corruption - Brennan Center for Justice",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFRiY2cyQ190cTdpb3M0M3luYjdENWl2dG1WMlY4LVlUWnlOcFdFbmx5YVg4VEFObHpFblVYN0YyazBUaXVyQ2hSRWpZQWpmcWpnOF90UXNmekNlN3gxZXJhcTA5R1g3SmMxb2VrYU1ZZFFUQWdQZkdISGlvR3hDODNrZWQ?oc=5",
-      "source": "Brennan Center for Justice",
-      "published_at": "2026-08-05T19:20:01+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "I-TEAM: Superintendent of EBR Schools indicted in sweeping corruption probe - WAFB",
-      "short_title": "I-TEAM: Superintendent of EBR Schools indicted in sweeping corruption probe - WAFB",
+      "title": "I-TEAM: Superintendent of EBR Schools indicted in sweeping corruption probe - wafb.com",
+      "short_title": "I-TEAM: Superintendent of EBR Schools indicted in sweeping corruption probe - wafb.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeFM1NUw1TlJPWVdLWm5MR3F6QVRLSXFPSlJvdmdNVjNXcy11bHlnQjJCcHJPZXBGWHd1YmU0cWtHSGd2VjJINXNINC1ybGpDYkJrS055VW9fZllmdlEtM1pWeVpHaTlOSmN5UXVwZ1dQRkxFeDVqTG5pSFp2NlJseENFMmFBSlA5UjA0YURLQVlDczR2U1NGN2JHSGJWNDBpaVJF0gG3AUFVX3lxTE9iZG9PSE5jU2JaaGlWUC0wSjNRblB6MVNhdEl5bjBFMmo2dF9nakRGcF83Nl9ObGFNUGFuSWxPMTU1TjRqdmx2SnF1UGpEZkZCTTk3bXpUbGRUZzRnb1ZGWVhyaFNhNWJzT3BHeEZpUEZKQXlvdDRFcHNzbHlNb2w3aHI0Y2hmYjBISVRJR1RxbVo2MVM0Zjh0MXlaR2VsRUxzWF9JQVQtTTlONFVhbFNoWHVLZmU5WQ?oc=5",
-      "source": "WAFB",
+      "source": "wafb.com",
       "published_at": "2026-08-05T18:09:00+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "House Ethics Committee launches investigation into Rep. Max Miller - WHIO TV",
-      "short_title": "House Ethics Committee launches investigation into Rep. Max Miller - WHIO TV",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZlNBdjVGUl9JSnR6M2NUdzN4NkZkSXJGRmhMeHVsSjRYWEFfRlRXQlhjYnh3YlVGQWVVVV90aFA0YWM2NTVBR2phdFZfSW5uUzUwQUhRZk5PQVNaNzJqbG1PTUMzTmM2RHhNZWJrOGJGc0NaX1dGdHljYUFmWHExV1RwNUFhbDB3OUY1VVA3Vkh6VEdhdTJ2N2lPeGgtcnFtVWg2NEhLRlFybWJpNHpvdWxoNWFJX045ZnRBUXk5TkRzUjE3VF9xeA?oc=5",
-      "source": "WHIO TV",
-      "published_at": "2026-08-05T16:17:55+00:00",
+      "title": "House Ethics Committee Launches Investigation Into Abuse Allegations Against Ohio Rep. Miller - Daily Signal",
+      "short_title": "House Ethics Committee Launches Investigation Into Abuse Allegations Against Ohio Rep. Miller\u2026",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMVVhWVN3OEpjdG9paHlNTExFMDU2NFhMcnpKbG92TWFtUklXTHpkRDYyb1NGUFB0OXRXY0ZjbTZrX2lKVmlXNE8ta0hxRlQ3VEw2SE52Mk0wclJuSG8yclFjbDk4VDdRa0ZreW1vdGtKOEhFR3AxV01paVN2RzVaTA?oc=5",
+      "source": "Daily Signal",
+      "published_at": "2026-08-05T16:29:10+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Banned from politics, former Argentine president brings corruption case to UN - Courthouse News",
-      "short_title": "Banned from politics, former Argentine president brings corruption case to UN - Courthouse News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa01XcGVTcFlLU3QxSWpfLTZzVGNSdDJTVkFFV3FnMnowdkVXRjFMQ2VWY05QTGkxb3JOa2ZROXBSeTlaWk04VFEzUkhodUxTNEc4ZUhrRDhsVi1MQ0lDOFVJRG4yUjIwQmthRlhhQ0hoNEtCU3czYllzN0NXUGFQNi1jeWEtQ1ktY05ENW9LSlA3UHRTblVtYTk2TGpXTl8yemdvMkNCQkVZUGhI?oc=5",
-      "source": "Courthouse News",
-      "published_at": "2026-08-05T16:14:30+00:00",
+      "title": "House Ethics Committee launches investigation into Rep. Max Miller - WHIO-TV",
+      "short_title": "House Ethics Committee launches investigation into Rep. Max Miller - WHIO-TV",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZlNBdjVGUl9JSnR6M2NUdzN4NkZkSXJGRmhMeHVsSjRYWEFfRlRXQlhjYnh3YlVGQWVVVV90aFA0YWM2NTVBR2phdFZfSW5uUzUwQUhRZk5PQVNaNzJqbG1PTUMzTmM2RHhNZWJrOGJGc0NaX1dGdHljYUFmWHExV1RwNUFhbDB3OUY1VVA3Vkh6VEdhdTJ2N2lPeGgtcnFtVWg2NEhLRlFybWJpNHpvdWxoNWFJX045ZnRBUXk5TkRzUjE3VF9xeA?oc=5",
+      "source": "WHIO-TV",
+      "published_at": "2026-08-05T16:17:55+00:00",
       "sentiment": "negative"
     },
     {
@@ -202,6 +202,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Rep. Chuck Edwards ends reelection campaign amid House ethics investigation - 828 News Now",
+      "short_title": "Rep. Chuck Edwards ends reelection campaign amid House ethics investigation - 828 News Now",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1JLMjN4Um1fWHNGNUFwd1BKX3ZRSmdydWozdU54aUVSMU0yOUhwbWRPVFItaEFWWWNnc0xUNzRLTzBUUTFmVThiQXhCVWk1ZUJzM2hORjdkNnpnaS1ZVUxTRlJkNDBvWXNZcVIwVGRjSUkwRGxDM0lkZ3ZIVnJJUUtOS3NPRGtWUnBkNU1DVzE0WklJTFViZkw5U2hQU2VkX3RFVnpwVEh1NXlyaFow?oc=5",
+      "source": "828 News Now",
+      "published_at": "2026-08-05T11:34:33+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Corruption Defendants, If Convicted, Could Lose Half Their Pensions - Honolulu Civil Beat",
       "short_title": "Corruption Defendants, If Convicted, Could Lose Half Their Pensions - Honolulu Civil Beat",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNzRkdC0yU0Z5bWU4bUQwV3p6cXNwTlRmdmpObGdNSkJTRjcxRC13azFkSGVvTFNsOVkyT2NoVm1yMy1rMHpuVjdxVHh5dUhZLWE1MG8zR1NyVEpnRTlvQW0yazNKSkxPTHhmYnpMY1YtZi1oMFhHUW44Z1oxNjN1cW9vSXg5bnV4RE10MEY4SVMxSGNYMEhWZWRPWGNrQ3RmMEE?oc=5",
@@ -210,10 +218,18 @@
       "sentiment": "negative"
     },
     {
-      "title": "House Ethics Committee opens investigation into domestic abuse allegations against Rep. Max Miller - apnews.com",
+      "title": "Rep. Max Miller under House ethics investigation for domestic abuse claims - The Washington Post",
+      "short_title": "Rep. Max Miller under House ethics investigation for domestic abuse claims - The Washington Po\u2026",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNUNSUi13S2ptekszUmVMaXRiM3BOZ0QzdEpjRE9HcEJXX2VUZVNtVGlzMGhZcEZSZWNkWXMtNFRKX2tiMFEzRlFOeUg5VlFXU2s4TlVrWUh6d2U2Q0tOcDIwWEU4UF9jZkZYS1lWVmJCZjVvVDFWNjNjRENLNlQ3bXpEc1hleFlKaVNjUW1wT1VvckV4MzFmMU1wVmNjbVBmX0hDckx0M3o4azJJblZGWld2dWlYXzEyNnhoZGpTRQ?oc=5",
+      "source": "The Washington Post",
+      "published_at": "2026-08-05T04:43:45+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "House Ethics Committee opens investigation into domestic abuse allegations against Rep. Max Miller - AP News",
       "short_title": "House Ethics Committee opens investigation into domestic abuse allegations against Rep. Max Mi\u2026",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXp2OTVsQUNja0thVFFhbXRnMEJnZUVJYlNHaDc4bE1xallJYnRMX1NrNHpVcmVVYnBCb2twNk1oUGV5RGZ5UTZoV2hlVFNYYXJxcFBMSndhSmRQTzBzRDZBay1zS1NaWnNxZFI1OTZrS1l6NFBHUzZnbUhmbjVwNExWbC1zRlBTSXVOTnd3RXJUbkw2ZkNrWnM5M3lpUFJL?oc=5",
-      "source": "apnews.com",
+      "source": "AP News",
       "published_at": "2026-08-05T01:38:00+00:00",
       "sentiment": "negative"
     },
@@ -234,6 +250,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "House Ethics Committee opens investigation into domestic abuse allegations against Rep. Max Miller - WKYC",
+      "short_title": "House Ethics Committee opens investigation into domestic abuse allegations against Rep. Max Mi\u2026",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOY0dhUUFpb3J2UHlOQnBCcjVoT3lHZEwtRjhrdTdZaFdEYkFGUnFyTEN0SlhuSW9TTU81RWJxZXdGU0JjYXVqcnZ5ZlFCT0pPOE1nWnMtdVNqSDMtbmN4VkRiWEtoYVZIXy1lNGNCdDdNZEJvWWhpemdfUl9RRVktMEJWc0FUTXR6VVV6R3VwemQ4RDF4R0VOSjcyQ2FvOHVrZkdQQTljcEZUQ1FReGY2VU81eHNlWnNHY2Q1UWtObE9qVWxEVW5hbmVDcWxpa3VUVGRYRThvQlFIcnJiUWluaGJiYmc0Z0EzM1YxUENic0lRcEVxTDhhYTM5cVpNWk5BMHFodWg1bHRTT29Fb3A2MW9GSjJwRXc?oc=5",
+      "source": "WKYC",
+      "published_at": "2026-08-04T22:55:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "House Ethics Committee confirms investigation into Rep. Max Miller - localnewslive.com",
       "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - localnewslive.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNktpeW9JVWQ4MW5DRTlhRUtiY3o5aFNUN0JTMTZaUGctdlZQV3VsbnVhWm9rQ0xEaTRUdGUzT1BxanpZUnJ1dTRfYXR5cWNIcEs4ODhfa0tiMmpTcjdvTHRucDBOSGNJWjV3TXBBdlpfTEpNX2x1ejVfTmNLOGlwVTBKLXpDbmk1WjlrUGMtQTNYUG5Kb1JITlVlZWo4eTVtU2NCMGVRaFJabzVpYWthQnJrOA?oc=5",
@@ -246,22 +270,6 @@
       "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - FOX5 Vegas",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbER1WDRPdTdkN2d2aXlZaDdqOFNtODBtVGJ5OFRFZW5MUFIwVE1TWExZcDFIY1g2U3JuZ2hsdURzMGtWSW1BSlduX0VXTGtHSDljRTlIbFBibHpxcW5fcnlqcXFSeENHX2ZqQi15bUItMlFiU2lWS1ByRGZPbU05ZXVLZDIxUGhEV01QNXVpa0ZMcDhSMm1vX2xkRjRaQVZvSVdOdms2WjMxUGh1eUE?oc=5",
       "source": "FOX5 Vegas",
-      "published_at": "2026-08-04T21:09:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - fox8live.com",
-      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - fox8live.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR2RhMDB2THR5MklLeGlZd2dKWlBSTWpNa1hhZ04wMWh3cGt2aXJWeWdIU0pUeWZ0MkZneVFPS3NUR2F5WGEyZUtsaTI3ejNPU25LaFhOWlFxV0ZrZkYweXppS1VpQzBHM0N0NXZ1bGcyX3FyZ0tVQ3RmWTRYQ2w1Q25GNGhLSjh3LVNUQnozMzRiVF9fRC1nc0kySERoZVJWckE2R0hHdlRLZVA1?oc=5",
-      "source": "fox8live.com",
-      "published_at": "2026-08-04T21:09:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - fox10tv.com",
-      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - fox10tv.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGVCazhUM3dkZlluYXJJSU9YMG1fZlFUWUZ3VEdLelVWdE1PVlAzRm03RHlBa2doVk13MHFjTG9IS0V2R2x0dGtfZ0dXTUY1bThPa3dBX1RGd2ZVVk1MZ3RGcUVzdmVCbkJUdTFLZGZGUXJob1laOC0wcF9JbGtQM3BDQWh6Y3BDZ3BPWndnUkI1TlVVcjhkSkw3R2Q0MVVuWl92Y2xXQ3UwRms?oc=5",
-      "source": "fox10tv.com",
       "published_at": "2026-08-04T21:09:00+00:00",
       "sentiment": "negative"
     },
@@ -282,6 +290,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - fox10tv.com",
+      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - fox10tv.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGVCazhUM3dkZlluYXJJSU9YMG1fZlFUWUZ3VEdLelVWdE1PVlAzRm03RHlBa2doVk13MHFjTG9IS0V2R2x0dGtfZ0dXTUY1bThPa3dBX1RGd2ZVVk1MZ3RGcUVzdmVCbkJUdTFLZGZGUXJob1laOC0wcF9JbGtQM3BDQWh6Y3BDZ3BPWndnUkI1TlVVcjhkSkw3R2Q0MVVuWl92Y2xXQ3UwRms?oc=5",
+      "source": "fox10tv.com",
+      "published_at": "2026-08-04T21:09:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "House Ethics Committee confirms investigation into Rep. Max Miller - ABC7 WWSB",
       "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - ABC7 WWSB",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNGd3RjFZNkZtR3ZRMmZaSXZ5WHVfR2I0VS1NM1lmdFp6bFZzTVZDYUh3SVdMcXFPRG5zTzg2STRRTlpWUHlNSm5YLVZDemJZbk9LTGVZNnBLVTdheHVwNUVDajBSazR1NWVGM1ltZlhRb3FhWkg2Ulh3WGloQXNwajAtZlJqRjRwczA3MlZVMUxxb2ZsU2UyVFYzZl9lQ3BQS0NzLWFzN3NBMGxxSzlF?oc=5",
@@ -290,10 +306,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - KTTC",
-      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - KTTC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmg1SmlUZ0plYVpJOHFaUElrSFZySDZRdVZDRmtaamc4Zmd1S3g2T1M3MjNVSXMyUTFETVRleVd5SEZERS1tLVVqS3hkTG8wYU54R2ZaMnhFa1hZYmlVZ2sybjRYbEI3RGxkZ3Nnb1BDLTFvQ0czME1yVEVMR05IbXJQUlppT2xrU3hOck1STkdmeHY2UDk0RWt1U3hKcXhDbGdaYklBVQ?oc=5",
-      "source": "KTTC",
+      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - fox8live.com",
+      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - fox8live.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR2RhMDB2THR5MklLeGlZd2dKWlBSTWpNa1hhZ04wMWh3cGt2aXJWeWdIU0pUeWZ0MkZneVFPS3NUR2F5WGEyZUtsaTI3ejNPU25LaFhOWlFxV0ZrZkYweXppS1VpQzBHM0N0NXZ1bGcyX3FyZ0tVQ3RmWTRYQ2w1Q25GNGhLSjh3LVNUQnozMzRiVF9fRC1nc0kySERoZVJWckE2R0hHdlRLZVA1?oc=5",
+      "source": "fox8live.com",
       "published_at": "2026-08-04T21:09:00+00:00",
       "sentiment": "negative"
     },
@@ -306,18 +322,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - Cleveland 19 News",
-      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - Cleveland 19 News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdW1UelNVbEZOQ1NyR3NpS09FbjRRUmZfWjRtUjJSbVRKdWE4cnJMZFhkazZzZVBHQU1QRVlocXlHT0hIUWlLcVo4SlpiVklDcFRJZE1VQ3Vxem5ibEhEVnUxZXZkVm5yd0s3SWk1SlNRdjlYZnNiOE5OV3JiU2RTZjZjSW9IWElhbHZ3SS15cmY0RGVUWEw3S2JVMjM2Qi00UHkzWE5Ld3lKNWRaTGNEMA?oc=5",
-      "source": "Cleveland 19 News",
-      "published_at": "2026-08-04T21:09:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - WABI",
-      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - WABI",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcXpxcDZYS2dmYTFsT2VlLUJPTGVCdTBmcW5Lcm9rQTE5bEJlSU4yTzB0LWZGOC1tTUhzY0xvT3FWeGtMSC1ld1FSVE5FdUxPV3JlMS1SaURiVVhUUzVZSTAwZjNRZDVWUEZRa1NXeUJEWWc5X1p4MkhrQ2Zoak1qRXdjWENYWlU1S0x0OWt4SE1kZVVwNDVMUUdZZl9OR1VqcER0VGdR?oc=5",
-      "source": "WABI",
+      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - WBAY",
+      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - WBAY",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVXNQeEJlbDR5UlhGbG92SFYxbkROVllwQjNiMXg3NWtBSTJ2a1VKNExjdE1CTlAzeFVTSXQ5WHNWU0hWYWtaaE02V1hiekxYSmNuVXdPQVphaFFjUXVUTlRlQkdQNjJoSlhVaFg0SDEtTE9wNjRod1lWd3RuMVc0cEdKdXlNTnpWOGpHS0xPWGRUcWVxVExETmFGdnE5SjBkc0VrMWd2SQ?oc=5",
+      "source": "WBAY",
       "published_at": "2026-08-04T21:09:00+00:00",
       "sentiment": "negative"
     },
@@ -326,14 +334,6 @@
       "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - KCTV",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWxZUHBhZklUWktFaC1NTHVTYXRVLXZod2dHVE82aVF5b2x4bUdpQkQtT1N2Q1IzWlBhM3k0R3pLbW5obXFBdTQ2NUQwSC10bHZXU25sellhbHVrQVJpSXoxV3VqcS0ydlBIb25RU1RvenVjejc2Q2VXYjk1TEZJZDRsVzlUSkRtR3hPWlZEbnVFWDdEdjFJeDhucG5EcnNNZm5QY1NfdVM?oc=5",
       "source": "KCTV",
-      "published_at": "2026-08-04T21:09:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - WBAY",
-      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - WBAY",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVXNQeEJlbDR5UlhGbG92SFYxbkROVllwQjNiMXg3NWtBSTJ2a1VKNExjdE1CTlAzeFVTSXQ5WHNWU0hWYWtaaE02V1hiekxYSmNuVXdPQVphaFFjUXVUTlRlQkdQNjJoSlhVaFg0SDEtTE9wNjRod1lWd3RuMVc0cEdKdXlNTnpWOGpHS0xPWGRUcWVxVExETmFGdnE5SjBkc0VrMWd2SQ?oc=5",
-      "source": "WBAY",
       "published_at": "2026-08-04T21:09:00+00:00",
       "sentiment": "negative"
     },
@@ -354,26 +354,18 @@
       "sentiment": "negative"
     },
     {
+      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - WABI",
+      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - WABI",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcXpxcDZYS2dmYTFsT2VlLUJPTGVCdTBmcW5Lcm9rQTE5bEJlSU4yTzB0LWZGOC1tTUhzY0xvT3FWeGtMSC1ld1FSVE5FdUxPV3JlMS1SaURiVVhUUzVZSTAwZjNRZDVWUEZRa1NXeUJEWWc5X1p4MkhrQ2Zoak1qRXdjWENYWlU1S0x0OWt4SE1kZVVwNDVMUUdZZl9OR1VqcER0VGdR?oc=5",
+      "source": "WABI",
+      "published_at": "2026-08-04T21:09:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "House Ethics Committee confirms investigation into Rep. Max Miller - KPLC 7 News",
       "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - KPLC 7 News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckxNWU5GMmRKaFhTTHNYdVU3ZjgxUDFOU2xzb2lfQ19xRFdjRlRPbmZac1F3RVFTS0RRMlRacGYxQ1BJSlZNUnBjY1pncjJWYUE5RXYxWHdiNUtrenMyUW8ybE5jcUl3aHNvdVVxZlRlRk5QU0hxVGRfMWVWaU01blNCRkNJVnliaUhzcWVHX0FtQ2FmNHRoQmdna0RKUFNKcUxVeDZzUkE5UQ?oc=5",
       "source": "KPLC 7 News",
-      "published_at": "2026-08-04T21:09:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - WWNY",
-      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - WWNY",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjR4Y191czFIZVZnSGpKNUcxLV85YlFoTGRrckxWcFhNZVI3bWNqanRNc2VDSTBUdmNUdE9sWEE2TVdoX19BWFZmeE5iTEx2elY2ZE9oVVR2QkpBRXdxcXlQSDNtQU1wVmt3eDhmdS1iRGFVTUdtWkp6SWpRek41VDlJNkZ4aDNGS0J1Y0RTX1Jvak1vTjE2RnNka0I4Q0VCX2RHNnhNcWNQUQ?oc=5",
-      "source": "WWNY",
-      "published_at": "2026-08-04T21:09:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - WBTV",
-      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - WBTV",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjNkWkRNcFVkUXpldWhZNFVrWG5tdGxqaXo3YnoxYXlJcTFxY2NmczhrTk1scVJ3cDEyZ1dVVzVjbEJOMjdLbGIwZDN1M1NUUHJ1SkozRnJoRjFsUlNZam96RVJTbmhpdjduMVBuSmZXRVlTNFB6SS16UDB5S0U5RUNub19oVEJBYVNEYld6aDZ5TU5hQ2VxWUpJMFE1bGpIbU5IR0FSVQ?oc=5",
-      "source": "WBTV",
       "published_at": "2026-08-04T21:09:00+00:00",
       "sentiment": "negative"
     },
@@ -394,18 +386,18 @@
       "sentiment": "negative"
     },
     {
-      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - WSMV",
-      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - WSMV",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcjJoT2lEV2Z2TWpWMGROS3ZGeTNocVJaQnoyakt0T1BvR05Rdi1yR1d6WkFVSER5YUU1QW95RUlKd216Q1NSZlVCRHRHaXJWdGUteVhYWEFkb0w4UDI4bWN2dFA3cG1sbFJYeE1PdnBkb0MwS3JDZ0JEbElxdGpnbGtoaEw2eDBUNjRUUldvcGhsQm1SbDlXcjlhUzNGQmZEMDVKRzI5aw?oc=5",
-      "source": "WSMV",
+      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - KALB | News Channel 5",
+      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - KALB | News Channel 5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVUdvY3RwdU1xZ2QxMkNJQ3B1VkpnY0QzeDlrc184Q0VoYmdWc3N6ek84U24zaUFDX0RtMmcxMDlOdVYyejJCOE5nTHpzV1JkRkZSMFBCV3IxRGYyUF82QUktUjZPZWp2ZGRiSktVOHVscEdydVhjS2ZNdmJMQUpmcmFYd2lEZlRiTldiRVZqU3JZNGZIRUhhbnFvQ0ZnMUNRaWtQWW5IZw?oc=5",
+      "source": "KALB | News Channel 5",
       "published_at": "2026-08-04T21:09:00+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - WTOC",
-      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - WTOC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeFNiOXBxcmYtUUVRUmQ4SDB6MUhJaXN0NTJsWHJJYTk4Yk5LOC1oRTcwaXB4V1JmcnJBZmJkSGpWMVFCX3pGeFNEOVVfRmphVVBJdWRJVHlhWGpFdnpPa2NDV0JZdHJMcm9zenNkQk5MMmdJbHZIOUFubWZ5TEl1aFAxOUhHTk5vVzJlbHotTWNEQWJwN2pXSDBBeVRoZE1jcGsyal9Vaw?oc=5",
-      "source": "WTOC",
+      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - Cleveland 19 News",
+      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - Cleveland 19 News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdW1UelNVbEZOQ1NyR3NpS09FbjRRUmZfWjRtUjJSbVRKdWE4cnJMZFhkazZzZVBHQU1QRVlocXlHT0hIUWlLcVo4SlpiVklDcFRJZE1VQ3Vxem5ibEhEVnUxZXZkVm5yd0s3SWk1SlNRdjlYZnNiOE5OV3JiU2RTZjZjSW9IWElhbHZ3SS15cmY0RGVUWEw3S2JVMjM2Qi00UHkzWE5Ld3lKNWRaTGNEMA?oc=5",
+      "source": "Cleveland 19 News",
       "published_at": "2026-08-04T21:09:00+00:00",
       "sentiment": "negative"
     },
@@ -434,14 +426,6 @@
       "sentiment": "negative"
     },
     {
-      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - WAFB",
-      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - WAFB",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObUc4TE9VR2Vsb1hwY3FNR2d6aldTQ3A1MkM1b3VFTEJLUzJ1QW1GRTJWNWU2bldUSHJCU0l2b3NtX0VTYzR4ZkJhV29LY2l0Ny1sUjl5LWM4OTVnckE5dnYyaFBuS0lzem9TbEtlSVJSNjZnWDlqdDU5dHlyc08tYmhfV2RwcnpWMmdzN1Vtdy13QTZlMW54NXZzMkVVbmtvWkJ4ZVJjTQ?oc=5",
-      "source": "WAFB",
-      "published_at": "2026-08-04T21:09:00+00:00",
-      "sentiment": "negative"
-    },
-    {
       "title": "House Ethics Committee confirms investigation into Rep. Max Miller - WJHG",
       "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - WJHG",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPalJ6U1A1Mk01Sm9wWXVBQU5OMU1EVEFaWTRZQ05ZNnZNbUVUSndERzdJVklsWkhCQVh3TDhvb2FrYXQ4WUcwRkM5REVrMUNDcENFakM0VUdaUEZZYmlSWjJGQ0I1eUdRRVJ6SGpvZGNJVzNqNUl1VXZlcklqQmNBX0JjaHRSM3BZODVlZDYtVXVZQ3g1aVdJM3JMWXBGMU1kR0oyWUhLNA?oc=5",
@@ -450,18 +434,18 @@
       "sentiment": "negative"
     },
     {
-      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - KTIV",
-      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - KTIV",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMk5UdThYSzNVRWJRMVhvTUpkY2R6aUlKUTM5T05lYkhQRDJOaXBZMVo1c2dsRFQ2OG5WeDd1UGJYc0ZrVzJJczJPLVVQS1pEcWVHdU9aOXcwWTQ4UVRIQjdpVkxkbUJVYnEyM0ZrRjQ5VGdGclAxeEZmTGNGMjJ4c2lCZjd4R0JaMmhZWnU1aEJQLUluOFQ5Tkc5WkpYcWpEY3IyQnBzVQ?oc=5",
-      "source": "KTIV",
-      "published_at": "2026-08-04T21:09:00+00:00",
-      "sentiment": "negative"
-    },
-    {
       "title": "House Ethics Committee confirms investigation into Rep. Max Miller - WEEK | 25 News Now",
       "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - WEEK | 25 News Now",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGszR3RjeEFQcG5IRDFQRTE4SXhqQURRSWZhLS10WTlKMTFmUU8ybVRfTURGeTRQbTIxazIwNUdqZnRqX01Td3hNelRsNUJhZ1lIQWlpUW1WTldKRnFZT2c3YXBmWEI0VGVSVC1MbmVqcnV1UElXdmw3VnItTUhjb3FyeGtaS3RGU2Q2TVJ2MTBHS09QZ1BqTHBrbmhxcERfX202OGdmYi0xVHNfR2c?oc=5",
       "source": "WEEK | 25 News Now",
+      "published_at": "2026-08-04T21:09:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - WTAP",
+      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - WTAP",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMFVfd1JjTmZNUEtjMHluR0JyX1lVRzUyaWpXalRkYWRzcG5aa213YWZpdGtFbXhsMXZpbG5ISTQzTXRQTHAwZVpPdnFQMjdHNEt0dzBNTGtwZDFaaGlIMHVrR05WdWd0c01FVXpCR0lKR0hialFfOUlUVWM5WTEwcmg1WnV0c1JlNWhoMGp1NEtQZWMwT0hCSXV2emVCX3NaekFxZG5RVQ?oc=5",
+      "source": "WTAP",
       "published_at": "2026-08-04T21:09:00+00:00",
       "sentiment": "negative"
     },
@@ -478,6 +462,22 @@
       "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - WTVM.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUU9rQnlEQzBNSjNnWThOLVl5QzBZWF8tVzRYM1JJYzhIMl9jNWdNcE05eUdfWEhlTTVNdmRsMEZvbXJDNGxZb2RRZ0I0dFlLdWpHRUVLWGQtQTVMQnFjSEt2TVQ0MFRTeTdBS3VXaVRzMUQ1Sm1JQS0wRTd5d1l0UkFZSEJ1MWZFZUR1WGVFLUF6eFRneGJzOFdQdTZIaW1KOWRfR1BEUQ?oc=5",
       "source": "WTVM.com",
+      "published_at": "2026-08-04T21:09:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - WTOC",
+      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeFNiOXBxcmYtUUVRUmQ4SDB6MUhJaXN0NTJsWHJJYTk4Yk5LOC1oRTcwaXB4V1JmcnJBZmJkSGpWMVFCX3pGeFNEOVVfRmphVVBJdWRJVHlhWGpFdnpPa2NDV0JZdHJMcm9zenNkQk5MMmdJbHZIOUFubWZ5TEl1aFAxOUhHTk5vVzJlbHotTWNEQWJwN2pXSDBBeVRoZE1jcGsyal9Vaw?oc=5",
+      "source": "WTOC",
+      "published_at": "2026-08-04T21:09:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "House Ethics Committee confirms investigation into Rep. Max Miller - KSWO 7News",
+      "short_title": "House Ethics Committee confirms investigation into Rep. Max Miller - KSWO 7News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjltNzBPaFRHUlo4MmJrSEx0QW4waTVHUlFpckNRaklUZzJROTItSUd5Q2k4Mmlldnc5RzhzSjRGQ2ttTmJzWHhBZXBTb0hkVm43TTNTejNCQW5kVkZ1R0F1T1c1S2R5N2RFV1VJenFHVTlJZTdmeDNRbU5sMUVqM1IxSThGYnhoNFNqRU81M0o5clh4ZjdnejhPRV8tTXBYZ1BGdnV1RQ?oc=5",
+      "source": "KSWO 7News",
       "published_at": "2026-08-04T21:09:00+00:00",
       "sentiment": "negative"
     }
@@ -500,10 +500,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "An ungodly tale in Godley, Texas: allegations of a prostitution ring, police corruption \u2014 and more - KERA News",
+      "title": "An ungodly tale in Godley, Texas: allegations of a prostitution ring, police corruption \u2014 and more - keranews.org",
       "short_title": "An ungodly tale in Godley, Texas: allegations of a prostitution ring, police corruption \u2014 and\u2026",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOemY2UUsxLWdVajFGZ3VGdXRvZkhJUEFsWFdHcnRZZWNsQlZuN0R3blpqVDA2R0p3OU41Y1Foc2FMeU9rRk9CdnVGYko3NnlDNXZzRjNuNEZteHByMWpRR3gwOEE1bXVfLS15X3ZkUXRFOEpQZ2FRa1Z6TkhpUmUxcC0zcEo5TzVoRUZ2eHhDa2NBSkJuUzBOVzd2dzA2RDJrT3NHbkxQWVJ6T3h6dlJjeng4NE1pWFM1bUNaSVhB?oc=5",
-      "source": "KERA News",
+      "source": "keranews.org",
       "published_at": "2026-08-03T09:57:00+00:00",
       "sentiment": "negative"
     },
@@ -584,14 +584,6 @@
       "short_title": "Devon woman guilty of \u00a3200K charity fraud - Yahoo News UK",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42WmprWXlxRzh5WjI4Ym53WmVjN2N2ZFBzLTdQclB1NkVVTzNXTFFfTjZSUGYyWW9Gbmk0YjU3b3hSdS1QeEphSVk0SmxTeEc5b3NxNTNRU3ZRdWlNci1aRGJqLTlraWhjTzJmMjNtVUJZOXE0SkhwS3hZa0c?oc=5",
       "source": "Yahoo News UK",
-      "published_at": "2026-06-21T07:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Devon woman guilty of \u00a3200K charity fraud - Devon Live",
-      "short_title": "Devon woman guilty of \u00a3200K charity fraud - Devon Live",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM3VkN3FEZHpURWZaamROMmpKR2diUWtYZllDWXNMVkptc3hoTjlYeE55VmNES0hITDhwV2ZIU3FYSDRYaXZjTjExbkFocTBsSm96RUpUdmlqeWk0N2lKZjEtSFF3XzV1UWJ6eHg3X1JGQ2Y0WTZmOTdsbVZDUGQ2T3dFc2N6eTd2dkHSAY8BQVVfeXFMUE5kUGFXSDAxbU55WDZQWEFYaEZqVmhxVTktSUt2S0lrTVNXcEhXbDN5TUlJLXk3QVBmMVhuQW5VZW1mTlU0Sldoa2EzdU1pR3lseFJPSzZzWWdIcF9YMVN0NHA4ZlBaZkVGR0tiamN2S3RrRVpOYm9tZ2xDWEplMGZneEhqb0RRYWdZNDBYeU0?oc=5",
-      "source": "Devon Live",
       "published_at": "2026-06-21T07:00:00+00:00",
       "sentiment": "negative"
     },
@@ -716,10 +708,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "HK college finance chief held for suspected fund embezzlement - chinadailyhk.com",
-      "short_title": "HK college finance chief held for suspected fund embezzlement - chinadailyhk.com",
+      "title": "HK college finance chief held for suspected fund embezzlement - chinadailyhk",
+      "short_title": "HK college finance chief held for suspected fund embezzlement - chinadailyhk",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tUFM3Q05YeGd5SFFGeGxoOHRrcG8zY0xZOUgwYlZCT21qUEVHdzZua2ZNZndhQlJ0YnZjWVNEOFJIcnhJSDBQbVVNWk1HZDkxckhtR1hwVUYxUQ?oc=5",
-      "source": "chinadailyhk.com",
+      "source": "chinadailyhk",
       "published_at": "2026-05-06T07:00:00+00:00",
       "sentiment": "negative"
     },
@@ -812,10 +804,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "Negeri Sembilan MACC arrests preacher over RM12.3m NGO fund misuse - The Malaysian Reserve",
-      "short_title": "Negeri Sembilan MACC arrests preacher over RM12.3m NGO fund misuse - The Malaysian Reserve",
+      "title": "Negeri Sembilan MACC arrests preacher over RM12.3m NGO fund misuse - themalaysianreserve.com",
+      "short_title": "Negeri Sembilan MACC arrests preacher over RM12.3m NGO fund misuse - themalaysianreserve.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdlpsb09aQ0RwMzdkUjdObUczRzZVMEQ2TE9udjdtb1MyR1VYYXpxWkJVTl84cUJfVGlsSHN4dk9BUXZqUUhFanVLYWQtSkVZWlV3YjJZR2JTdTVlbThsMEpHQkQxeDhhaUw5aXQ2S0hkelpFOW5qN1RoNlVBYWUwb0RWeGxqU3BVclJOR0VtUS1kUm5udXZLZFdGQjVDb2w1MmhCenZZX041cklOZkRV?oc=5",
-      "source": "The Malaysian Reserve",
+      "source": "themalaysianreserve.com",
       "published_at": "2026-04-22T07:00:00+00:00",
       "sentiment": "negative"
     },
@@ -828,10 +820,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "\u2018Middleman\u2019 involved in \u20ac500,000 Trinity College Dublin hardship fund fraud jailed - The Irish Times",
-      "short_title": "\u2018Middleman\u2019 involved in \u20ac500,000 Trinity College Dublin hardship fund fraud jailed - The Irish\u2026",
+      "title": "\u2018Middleman\u2019 involved in \u20ac500,000 Trinity College Dublin hardship fund fraud jailed - irishtimes.com",
+      "short_title": "\u2018Middleman\u2019 involved in \u20ac500,000 Trinity College Dublin hardship fund fraud jailed - irishtime\u2026",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX3MwR0FMTEItV0VfRDBvbVJlel9HWlJWR0pBaDdHaklLNFdUXzNEUE52RFBHc2syVVNyOWVBQWYta2duSURfMkJGRWFvck1ZbHhYMXVCSGh6LTNLU1VzU1lleG8wOC1kVWZCamcwMG9OYlY0STNYRUc0YWgxbzFjVFNtazhjYzA0aXpsMnc2VEZpeERMWnJJaUxfVGRJV3B3ZnB4dXQtU0d4ZUNHdkctR3JjQzJ1andtbGtJMlEtRFVlSmI4RGFSR2xXRE14U1k?oc=5",
-      "source": "The Irish Times",
+      "source": "irishtimes.com",
       "published_at": "2026-04-22T07:00:00+00:00",
       "sentiment": "negative"
     },
@@ -860,10 +852,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "SC senators call for investigation over money to representative's nonprofit: 'I'm an open book' - South Carolina Daily Gazette",
+      "title": "SC senators call for investigation over money to representative's nonprofit: 'I'm an open book' - SC Daily Gazette",
       "short_title": "SC senators call for investigation over money to representative's nonprofit: 'I'm an open book\u2026",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdjdqWWxMRHBCeFlHbHJUNzAwWWdYNnpiRDRNRnFNbnRPMDRpWXVMTTllWU9oQTE4RkgyQVdLbGkyV2ZqMEdqa2t6T2UtalYxRUN1MUpXaEU2WEFYaTdMMmVTNGFORzRxRjJvTkZldDR6STZOQi1uRExPYm9SRDB2QVU1aGhLbDhZaGdaaUpLLWVJWXE0U3NHSlJPYlJmV21VenJLdGFwcXAycUFnVVhMa2xQVzlsTkR1QUF1Nzd3endDS2tTUmp2MEkyb21YUE0?oc=5",
-      "source": "South Carolina Daily Gazette",
+      "source": "SC Daily Gazette",
       "published_at": "2026-04-08T07:00:00+00:00",
       "sentiment": "negative"
     },
@@ -892,10 +884,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "Prosecutors Accuse Charity Foundation Of Fraud - REFORM.news (\u0440\u0430\u043d\u0435\u0435 REFORM.by)",
-      "short_title": "Prosecutors Accuse Charity Foundation Of Fraud - REFORM.news (\u0440\u0430\u043d\u0435\u0435 REFORM.by)",
+      "title": "Prosecutors Accuse Charity Foundation Of Fraud - REFORM.by",
+      "short_title": "Prosecutors Accuse Charity Foundation Of Fraud - REFORM.by",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91b1Y1MjVYNVZ3M1J6dlE1ODRyYXV0MDBQcEh1OXFJX21GZTgyVGl0NkNPNWZ1M3hTTGNoM0VZV3RaWWJacEdsLWFCUDVkMXRqbTNNTUhGcnlseGpkR0JiNzc3Qk9jQjUydlRkQk9Rb05IdnB4NG9IZ0dB0gF-QVVfeXFMTVUzajVDTkljYkhva1Z5SkxmLTViNUVWYlMzRDR2NE5wUGp6bjk2eFJXTGJBX01JLWVzR3FRM2p2ejlWdmhIVS1NY2FFLWdIeWV6U1YxQzF4TjM2UFF5MTNNNVJ5ZEJhbkl5WndablFpc3dBMDZOeFFWRTlBMDFn?oc=5",
-      "source": "REFORM.news (\u0440\u0430\u043d\u0435\u0435 REFORM.by)",
+      "source": "REFORM.by",
       "published_at": "2026-04-03T07:00:00+00:00",
       "sentiment": "negative"
     },
@@ -916,10 +908,10 @@
       "sentiment": "positive"
     },
     {
-      "title": "Reading the signals: Is UK policing about to turn the tide on fraud? - The Police Foundation",
-      "short_title": "Reading the signals: Is UK policing about to turn the tide on fraud? - The Police Foundation",
+      "title": "Reading the signals: Is UK policing about to turn the tide on fraud? - police-foundation.org.uk",
+      "short_title": "Reading the signals: Is UK policing about to turn the tide on fraud? - police-foundation.org.uk",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM1NrZkR2QV9CYW0wQkFCQmFIM1ltRWZEOGFILVpTX2FjTzRMUEhzUE85SXE0QlBROFlFbDlwdGVIU0dQdHA0dW55UDU0b25mTUFFQ1o5cUtXWlNmNTR5Q3ZnRjFoQ19RN3EtUW82SXFwc1dKTWRMOWNiUXBoRTdjZHhOTlpveVVVM1ZPZVNKV0FRYjBhN196Tlc3YXcyYkJ3X1NydEh6Yl9RZ2JsR3o0cFd3?oc=5",
-      "source": "The Police Foundation",
+      "source": "police-foundation.org.uk",
       "published_at": "2026-03-27T07:00:00+00:00",
       "sentiment": "negative"
     },
@@ -948,8 +940,8 @@
       "sentiment": "negative"
     },
     {
-      "title": "Some HISD parents want to sidestep Mike Miles' reforms by outsourcing management - Houston Chronicle",
-      "short_title": "Some HISD parents want to sidestep Mike Miles' reforms by outsourcing management - Houston Chr\u2026",
+      "title": "Some HISD parents want to sidestep Mike Miles' reforms by letting nonprofits run their schools - Houston Chronicle",
+      "short_title": "Some HISD parents want to sidestep Mike Miles' reforms by letting nonprofits run their schools\u2026",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTEsyM3Y2bEpMeEhnY0xBS2wxMTVHSXRwYVhFTXhNb0o0eVlQdG1yM1NjZHp3LUMzdTV2TGdyaWpqR2NiemI2ZThHV1B6ek9hZmE2bjktNnFDeWpsSnVVcXhSNWpQUXhnWVlRY3p0RmtxMXFBS2lfOFdRd2F4RGxiT0lOSXd1V0YyUkN3bTJHaDJ2N1RCTTF6Qm5JZkx2RzYzTUJyZldRc2otdTZEblkzekZlTktrNWtqRWM0?oc=5",
       "source": "Houston Chronicle",
       "published_at": "2026-03-26T07:00:00+00:00",
@@ -961,6 +953,14 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wSGlrZkZWM0NVbXNqRy1KR3htakprOF90OTNUcXdJZENDNUNLY2Y4S0U1WTh2NWREZXNNYXVhRldXbVp4aTl2bEt4dk9oaWMteWc?oc=5",
       "source": "Malaysiakini",
       "published_at": "2026-03-23T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Flow Cryptocurrency Investors Have Opportunity to Join Flow Foundation Fraud Investigation with the Schall Law Firm - Business Wire",
+      "short_title": "Flow Cryptocurrency Investors Have Opportunity to Join Flow Foundation Fraud Investigation wit\u2026",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMmh1UXlCZXI4bU1NcFRoZGhjRnlCM1ZReUdXYW5iYVVrYklqRjlfSTZiQmpMMmh3VVgwdlBzS0dCRU5XVzFMUWtmLVpSS1htc1V0Qm5FUmZSeWVhMTM0MkV3ZEFKTjk4X0dXNXNPV1VSYXlkRXI1dzRiV0wzMy1XQ3ZraWxaRFJjRFhFTDM5bmNYVVRPSnllbmx1TTJvU0dOWFN2TFBpMmdUVGc0MGdKTlJ3X3lpVnl0YWR0WGlQLVc1TGd3ZXlhaTM4SkNRbzJJaWU5cnlaVnFWTVNhWWhPdUhJaGY0dzdZbUpFU0JncTVQMllyR3ZIbGdTdDFPbFAwbEE?oc=5",
+      "source": "Business Wire",
+      "published_at": "2026-03-22T07:00:00+00:00",
       "sentiment": "negative"
     }
   ]
