@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-10-05T21:08:01.390900+00:00",
+  "updated_at": "2026-10-06T18:55:51.832330+00:00",
   "government": [
     {
-      "title": "Corruption in the White House: Does Anybody Care? - Yahoo",
-      "short_title": "Corruption in the White House: Does Anybody Care? - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTWlvQmhMN0hacHk2OGVhMzlXUk1pVWkyQUk0VURDeHVPZDJKc3g0Y0pHYl8xQ1lXVENmTnQtcmJZUGRlLTFMeE9JblBYeW94clhkcDdBdjQ3UUJMZkN3ODl4cjhZbzMyelMzNk9pcmRkajRReFN6VzhXeDFwcnQza0lGUjh4VzRsRkZoaloyZzM1MEV2RXhWMTUtTQ?oc=5",
-      "source": "Yahoo",
-      "published_at": "2026-10-05T16:28:55+00:00",
+      "title": "\u2018Using the presidency to line his pockets\u2019: could claims of corruption fuel backlash against Trump? - The Guardian",
+      "short_title": "\u2018Using the presidency to line his pockets\u2019: could claims of corruption fuel backlash against T\u2026",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jczFyeWpkaE5vVFRvc0c4QURvd0J0TWxUM1V2WXpwanhiUFQzR29LYVZ5amRMRFd5LVlfYjBYbzRwekhMc0VLSGpVeVZRNDJQTERHVWljNlRZQmRoaXlkcG5mR0daY1dSOHpoVEFpSm9iYUlzejFUODlHeXFBQQ?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-10-06T13:29:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Methuen votes to seek reopening of federal police corruption investigation - MassLive.com",
+      "short_title": "Methuen votes to seek reopening of federal police corruption investigation - MassLive.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmluZ3JXaVBFVVFsRUpnZVBhbkNkdUJYc0NiQndvQlJQMy1EZnd5eEljZFk0a0ZCWWptNXJkWnczY0FhQkhJMzN4Tzh3S3RVcGFVZkRJcWVrRkRGNFdkVlNGLWVjV1M0dUE3THhHSmI2RFZvWk5JR0VIZVVnUVdvMmZYSHpiRUkxam5RWkhham96Rk5Gd1E2WTJqYjhMamRRYlpBNEFYVFNMRTV2QzJ6QThrNG0xQ0Ny0gHMAUFVX3lxTE1TbXZ3eVdYeG9yNUh0dW9jc1dMMXdhR3ZVNElLNDZEc2FMVV9Xdy1Kcm9GQk9nR2c1a0M3eHN3d0RWV1Q5enZTcGVfeHVZT0t5bjh3S3V4ZkZHU2d3WWJFTm8zWlBJQzBEcUpmTTkzVllWSm5Eb1pzTnAtTU05VGJJZmdrRWFUN3Y3SExqNmQzdDR1c0F1TGNXdWNPcWVndi1ZemdjTnlSNTZYRGh2UFRFZDdxT2VKalZ6VmdlRTI1N0xxVjFLQ2xqTDB0LQ?oc=5",
+      "source": "MassLive.com",
+      "published_at": "2026-10-06T10:43:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Elissa Slotkin Slams Trump Over Alleged Corruption, Rising Costs and $3.5 Billion Family Wealth Gain: 'On - Benzinga",
+      "short_title": "Elissa Slotkin Slams Trump Over Alleged Corruption, Rising Costs and $3.5 Billion Family Wealt\u2026",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNUTRyWlZDQi1UX0doSTZ2WDh1OFJxQjRBUzRNUTJnT2IwYUloTkc0RVlRNGxjcC02YU9zWk12MzdPYlJnbjRjXzlzRldGTFJmbEFHWU9MQ2ZudHFmREhsQlp3TTRIT2tmWkxUM253a0F0QzRIU3lMc25HR1VvX2tKZjRmb2o0cnZkM2Z4aTNuQjA0Yjk2SWhQbk0teUFtYkVqbkowT0lJd3MxclpWYThQb3pYVDJoWWlOZUhBM1FjUTh6aFBidTAxRDB3RkZYd2FpNUZYU2MydWgxLWNSYnYzSFRfTjJuWkYxQkpKVV9qLTl6UFVVZ1UxSl80dnJYQlVNajY2NldMbmp1Ulp4SGIwdU1UTjRJdERQQ3RsNjVLZUNiNElFN0c0eENQaWw2aUZhM1ZNSHIwRDdMdzd4RVFhZ1lfN3RySGc?oc=5",
+      "source": "Benzinga",
+      "published_at": "2026-10-06T08:06:16+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Op-Ed: Reform Legislative Ethics Laws To Restore Trust In Government - Los Alamos Daily Post",
+      "short_title": "Op-Ed: Reform Legislative Ethics Laws To Restore Trust In Government - Los Alamos Daily Post",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObGpVa3lndW4ycmdFQUlBZk1ITy01SENwWUhSQmFGa3NsWFg1TjhXakZ0YmhySkt3TXVfdzZOZnpPUTlpem5fU0xyMkJyZG5VcDJ5LVduUUs2RklfajQ0STh4MTF1WG9HOXNCTDN6Zko0MDBHa3ZPUV81YUhyUTI0bC03NFNRRjZmUzBFRGFqd0pPU1dpT2xEXzZSYTJ1bXp0NGZDN1pmTEFXRlBEVS1TWVUwaVZBY1F1NjFPWWhiYUstdE45QWtzRUVyWDZCR3BCM28wNk9jZ3MtYXpMN1YwRTRDelMxRkZXRmJDQll2SlJMT082d0NuQnZtaXlhZw?oc=5",
+      "source": "Los Alamos Daily Post",
+      "published_at": "2026-10-05T21:42:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Corruption in the White House: Does Anybody Care? - The Nation",
+      "short_title": "Corruption in the White House: Does Anybody Care? - The Nation",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemp4MnhJeEtOVHVKVnQ3X2R4VGIzRGNHVTV3eFNHRTJyajdKa0t1Yks2RGotOXdETUZGOTkwMFczcXV1RjZNZHBicVBVd2FEZE96QlZCY1dnSm8tX1hHUzdCVkFxOVMyb3NBYkp3WFhhZUFpTGJKZ3BWaEZjWVlwM3hpbWV5OTZ1dWJCSnZLNlrSAZgBQVVfeXFMTnRJV0pxQW1Ld29OTDJFT1lPbldrNXo0dG5kWEttRjhweVJPRTdBN2ZPRF8yeGM1ZE5IR195SjhnQTJHRW9PU2dDVlBWZlZaMW5PM09IYTBkcHp5YW1VMWJNTUdQMy15MHo5VzRRQTBkczlpcmhrQVNLREh2eFVVWUZBSndOblFWWjNWaFBhVkxkdnNqODRtNUQ?oc=5",
+      "source": "The Nation",
+      "published_at": "2026-10-05T19:50:03+00:00",
       "sentiment": "negative"
     },
     {
@@ -34,11 +66,11 @@
       "sentiment": "positive"
     },
     {
-      "title": "Jury selection date set in Webb Co. Sheriff Martin Cuellar's federal corruption case - lmtonline.com",
-      "short_title": "Jury selection date set in Webb Co. Sheriff Martin Cuellar's federal corruption case - lmtonli\u2026",
+      "title": "Jury selection date set in Webb Co. Sheriff Martin Cuellar's federal corruption case - Laredo Morning Times",
+      "short_title": "Jury selection date set in Webb Co. Sheriff Martin Cuellar's federal corruption case - Laredo\u2026",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSDh3YV90YjRCOVRfTlJDWldrQk5lbk5DbzZVUzRQZjdqbTNpcGdfRFZKRlVzSDE0aWlkTXQwc0hleS1SVDMxRGFndHhFOFVMVDQyZmhIa2tOeHlBazd1ZURYOTRQSmVZX3R2RjgweUdUMFdPemJGQ0ozVmcwd2V6QVlBTVJNSFpDOUo5SXh2cUt1YzhDUXBSSGdycG1tRDk4akpRSzBB?oc=5",
-      "source": "lmtonline.com",
-      "published_at": "2026-10-03T17:52:52+00:00",
+      "source": "Laredo Morning Times",
+      "published_at": "2026-10-03T17:37:53+00:00",
       "sentiment": "negative"
     },
     {
@@ -50,35 +82,11 @@
       "sentiment": "negative"
     },
     {
-      "title": "'Abundant information' available, judge says about alleged corruption scheme involving Eric Adams' ex-chief of staff - Newsday",
-      "short_title": "'Abundant information' available, judge says about alleged corruption scheme involving Eric Ad\u2026",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVFhlaUFfM3hiRWNEN2JlRHVsbnpNdE56THR0dmtqYmRSX1pCQ3VjR0FNZnVXMUFjbzRuRUNWZUVJZTg1Q2tST21GcDBhdWhoY0hDMldsSFZfdzJIZEVfbW4taGR2QXVIdFZVZnFNSFFzSFFWREg2cGktVXA1VkNvclJZYUpKc096TC1PempZTlpMclZsZy1JVFFMR0NnS2s?oc=5",
-      "source": "Newsday",
-      "published_at": "2026-10-02T23:52:59+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Two prominent Belgian figures face trial over accusations of corruption at state-owned company - The Brussels Times",
-      "short_title": "Two prominent Belgian figures face trial over accusations of corruption at state-owned company\u2026",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWm1KU0k0S245QVBjcW9VY1hrVHA3Vmw0YzZKNzIxSWxsNG9nV181YkdPWHA4MXpQVGp1bS1UTzNGSEtvMGg4eE5aZ3d1bTdIX2hBbXN5cmJjT1hsM0ozUWgtNkdyVGI4Nzl1UjRVRG94U0ppX0hrVk83OWlIV0NYazBqMXVBWTYwMW5sLXhMY2xYbWxQZml5TkVzQklXZ2I3NDNhY0MzVjMwdnhSODVPbTI5aGh5eW1BY3Y2YkVhRGNvak5GclE3djdCd0c?oc=5",
-      "source": "The Brussels Times",
-      "published_at": "2026-10-02T15:28:56+00:00",
-      "sentiment": "negative"
-    },
-    {
       "title": "Baton Rouge government corruption cases get new lead prosecutor with federal experience - The Advocate",
       "short_title": "Baton Rouge government corruption cases get new lead prosecutor with federal experience - The\u2026",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOG93ZmJBRDQwbHRCU0tQMnBVOWg5alRzM2VWSnZaR2RYM2xjbXQxTnByZmNVM1ZlVnFBVU9jaW01bFNDaEpvUlVmWldVSXFBcUJVNHBJUTBPR2tRYjVHMzZ0Q05TbFdyZ1dZbEdIaTM5N2h5SE5mcUVDMmFLTTZXSnc5ZFdKWWlYbXpIVmEtSlRGNlpCSzh5eTllaXQyVVBBUUVxSGo1WlhYOXl5X0llbDFFcG1TU0xDQjZRWXVxbGNqZ2RXMWhubGFlak9EVWoyd0MweFloakQ3T1dET3JkVzU2dThYWTh2UDVTeTNEa0VWN0ZrUjNZ?oc=5",
       "source": "The Advocate",
       "published_at": "2026-10-02T15:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "More Americans are concerned about political corruption - The Michigan Independent",
-      "short_title": "More Americans are concerned about political corruption - The Michigan Independent",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcFU0TVVFdmpjQTlCaUN3UDBTN1NsYm1mUVVFaGF0NDRtaEdTLXpqNXRFdWV1UVNrYXc4SXBOZjhPRHVRRTJIRmdsbG1NYXRhMmhfV0RTSFlRVXlDMGVOalR2bngxenpCczVKQ244OEF3WDY0NWxUWGF5Snd0d3dNZEQxdTBRX0Rvem9iQURuZVJwam94dFM0eld3MmY4dw?oc=5",
-      "source": "The Michigan Independent",
-      "published_at": "2026-10-02T14:45:20+00:00",
       "sentiment": "negative"
     },
     {
@@ -114,14 +122,6 @@
       "sentiment": "negative"
     },
     {
-      "title": "After mistrial, Pirro says she\u2019ll bring Trayon White bribery case to new jury - The Washington Post",
-      "short_title": "After mistrial, Pirro says she\u2019ll bring Trayon White bribery case to new jury - The Washington\u2026",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYnVTb1pXckNrTVZyWlY2SmwzZFlzRC1OWDMwcGpJVzlHRUgwNWNKbFE3UVZkVUpSdnBGaFY3blN0QTh0XzBOZi1pd0V1X091NHNBcUh0MVUzQ1ZLenBZaExzbU1KQ2I4SDl1Rk1hZWMyUDh6SzJfbUdZMUV6MUU4NVZsNmEyNzloejQ1YmNBZ2Y4aUlHOHRHb3FUQ2NYakduU1NwdHpfUXlaaHBtM01HaU1ZaHNLV2s?oc=5",
-      "source": "The Washington Post",
-      "published_at": "2026-09-29T00:27:25+00:00",
-      "sentiment": "negative"
-    },
-    {
       "title": "Express: Get to know the City Council candidates | Former undersheriff pleads guilty to bribery - Mountain View Voice",
       "short_title": "Express: Get to know the City Council candidates | Former undersheriff pleads guilty to briber\u2026",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN1JWUnE0dEVuOWtJUzJvNlhrR3pOYjNxblROY2NsQTdaRGhNdHVCTV9kdC1PLUFfcW84amFnSFJ2TU1uZzZmamwzRUpLTnZFWHBzOUlRUDRIcEpXNnpiTHhmNXRyd3RUZ1dja2YxNkRXSTBOQ0dZeW5yeDFYUXZBOE1vUEduNWlGaklPQmI5cnpkWmNzdkJVUllfcHRKWFUxNE9oNXR3b2lTS0JRakFWVjVMOGJ6OEctMHp5UzNmR2tIS05LVW9Bbw?oc=5",
@@ -130,26 +130,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "In Photos: Mistrial in the D.C. Councilman Trayon White federal bribery case - WAMU",
-      "short_title": "In Photos: Mistrial in the D.C. Councilman Trayon White federal bribery case - WAMU",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWlVOaUJDdXVGd2NCUXRWVFdHeW1ycHM2b3k1ZXBmX1IwbHZ3UW9pX01fbXJwbEdUWXNYWm9kVEtweWxXbklRN3FBU3hWNXhNMXZVWDdDUThQMHJlaUIyeXo0Z0w3NDB1di01NVBtVGpxY255MlVLNURYbTE1Sk1KaDJUdWExX0NwN3RGSl9HVjVNV09NNF9xX3U0ZTlXNS13SHJybTBGM0lJNE0?oc=5",
-      "source": "WAMU",
-      "published_at": "2026-09-28T20:56:26+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Sheng Thao Case: Recordings Reveal Taped Phone Calls, FBI Informant Appearing to Describe Bribes - KQED",
-      "short_title": "Sheng Thao Case: Recordings Reveal Taped Phone Calls, FBI Informant Appearing to Describe Brib\u2026",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOEVTWXMzV2llbnFjMUMyRWliTzVRUWw2N1RzZ2gwMzJjYTBZVzZLSGlXZk5WVlZzV3RhVVJZeVBQaGdqTVdUUXlmU3htT0dYQUstUnp1WVExUDA0VkkzR3NiRjRXZ1otVVVWUVlzVnphdGNQMmp1YndoaE5SdldFYUtsYmNRcFNMelpTMG5lYXl2NzBjTVd4bm5tQy1KS3AtZ0xjWEdMdXlrWmVjcDdXRFJ2TklVenhWQTVETzhUY2hZVExjVjhCMg?oc=5",
-      "source": "KQED",
-      "published_at": "2026-09-28T20:01:39+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Trayon White\u2019s bribery trial ended in a hung jury. What now? - 51st.news",
-      "short_title": "Trayon White\u2019s bribery trial ended in a hung jury. What now? - 51st.news",
+      "title": "Trayon White\u2019s bribery trial ended in a hung jury. What now? - The 51st",
+      "short_title": "Trayon White\u2019s bribery trial ended in a hung jury. What now? - The 51st",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPemJERFg5NExkVm1EM1VpVVVHdXlONmFmNTBVcjBCTjd3VXl3WFpTVlJlZGNaTXBVS0tLTjNPakxucmJod3JYUW4zTzdZQWFvbUc4a2Zna2RzMjlFSGlGRU5NeEV3LThJTk1VVC1LNHo0ODRzQjFNalBoYVFYV214LWZR?oc=5",
-      "source": "51st.news",
+      "source": "The 51st",
       "published_at": "2026-09-28T15:38:20+00:00",
       "sentiment": "negative"
     },
@@ -170,6 +154,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "After mistrial, Pirro says she\u2019ll bring Trayon White bribery case to new jury - The Washington Post",
+      "short_title": "After mistrial, Pirro says she\u2019ll bring Trayon White bribery case to new jury - The Washington\u2026",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYnVTb1pXckNrTVZyWlY2SmwzZFlzRC1OWDMwcGpJVzlHRUgwNWNKbFE3UVZkVUpSdnBGaFY3blN0QTh0XzBOZi1pd0V1X091NHNBcUh0MVUzQ1ZLenBZaExzbU1KQ2I4SDl1Rk1hZWMyUDh6SzJfbUdZMUV6MUU4NVZsNmEyNzloejQ1YmNBZ2Y4aUlHOHRHb3FUQ2NYakduU1NwdHpfUXlaaHBtM01HaU1ZaHNLV2s?oc=5",
+      "source": "The Washington Post",
+      "published_at": "2026-09-28T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "A decade on, anti-graft law leaves lawmakers unchecked - \ub3d9\uc544\uc77c\ubcf4",
       "short_title": "A decade on, anti-graft law leaves lawmakers unchecked - \ub3d9\uc544\uc77c\ubcf4",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81eXU0Y1U2V1BUVGpoTXdOdmVTZTE0ck1zOHRoazNaVWhsZFJIWFlQNS1VMWhNNEFvQmNxMmFVaHlKMjV6VkNFUkRqQ0w1MjNvVjhfUWg2enRwRlAzRUhZUjh4bjdCZw?oc=5",
@@ -186,10 +178,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "\u2018I\u2019m pissed\u2019: Watchdog group continues Oakland police spending investigation - oaklandside.org",
-      "short_title": "\u2018I\u2019m pissed\u2019: Watchdog group continues Oakland police spending investigation - oaklandside.org",
+      "title": "\u2018I\u2019m pissed\u2019: Watchdog group continues Oakland police spending investigation - The Oaklandside",
+      "short_title": "\u2018I\u2019m pissed\u2019: Watchdog group continues Oakland police spending investigation - The Oaklandside",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaFZ3VUtZRXFHVmNQM01RQTEybnF4WmxnVGRhZ3c3M0ZXMkxmUUtBOVRnMXNjWTlWSm5mamdONHA2N3QyRHpwdTZTWjA1anZOSFY1TlpEWW9IV3lDRFlEU0F1Vy1PdHZCdjE2VDJlZko3dnpsMEZSMERwcXN5dHVwQjQxWWZSNGI5bDBzU0kwWXliV3B2MnpFakFJNUpQbjVw?oc=5",
-      "source": "oaklandside.org",
+      "source": "The Oaklandside",
       "published_at": "2026-09-25T07:00:00+00:00",
       "sentiment": "negative"
     },
@@ -234,10 +226,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "Worcester County Public Schools executive charged with embezzlement, theft over $100K - wboc.com",
-      "short_title": "Worcester County Public Schools executive charged with embezzlement, theft over $100K - wboc.c\u2026",
+      "title": "Worcester County Public Schools executive charged with embezzlement, theft over $100K - WBOC TV",
+      "short_title": "Worcester County Public Schools executive charged with embezzlement, theft over $100K - WBOC TV",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPV2ZmVExvRkdoMXZ3bEd2cC1OeU1Yc1lOblZubzZUUU0weDFVRlFuOTNnSlhvYmVHZ2tyR09rZVphVDFsa085aG12Sm10bXJIYlN2UE51ZnExWEJTcXd4UFdrLVpvd3N3alZISVhpcW1yXzBkWkJobm1aTnFnM0NYTjhJS3B3SkdoR1o4bU9zUU4zVzl3OUtHYmlmRklqYkZiVXdwdHFrQUJIQVpJMk1WVHFqZWR4TGhZd1ppVHFHVlpkT1Y1QzZOSkJlVE1Yd0VMV0NvanVGNlNJTFNxMmpUX2ZVYy1kUTJJa2M2ZVNySF8?oc=5",
-      "source": "wboc.com",
+      "source": "WBOC TV",
       "published_at": "2026-09-23T17:58:00+00:00",
       "sentiment": "negative"
     },
@@ -266,22 +258,6 @@
       "sentiment": "negative"
     },
     {
-      "title": "Recordings reveal details in former Oakland Mayor Sheng Thao's bribery case - NBC Bay Area",
-      "short_title": "Recordings reveal details in former Oakland Mayor Sheng Thao's bribery case - NBC Bay Area",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONTFiYzl3YlRrOE1Wc3VMNWN2ZEhncWR3TXVvTmE4QzFqOHh2XzVjTzR3VWlYZHdKTXRKWVc5UXFfYklXYmNwQXNudXpCVmd5TXRyemVkNGctcENpS2hkN193UFV5bi1mLUthOEtFcUhfNGxtcnk2Q0hHbjM3UW8yRkN3UGJPd3R6Skln0gGTAUFVX3lxTE5ZaExDTFBORmh0WmxmbFJnN3g4R1RVS1JfR1JJNURJMnZ6Z2JuY2k5eTZFU0w1bEc2TUJDUmpHVXY0Sk1UYzBnYjM5X1pZSzh5ZE51MlJ4WV9iOHJkY1dNQ0ZaY3hycTlDMXdGcTVuRHMtcGtTY2k3c0JYT3d5TVJLYld0REp3bVZHakxLY2pvUWxSQQ?oc=5",
-      "source": "NBC Bay Area",
-      "published_at": "2026-09-23T07:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Former Southern Poverty Law Center Official Arrested as Federal Fraud Case Expands - Charity Watch",
-      "short_title": "Former Southern Poverty Law Center Official Arrested as Federal Fraud Case Expands - Charity W\u2026",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3dyQ0Q1dmRMVDFOWEp0bk5XdTFMbGlwbHFNNW8yanJoaVpydlNMUzVYR3VKeWhkS1NHX1dGSkpEbkR5RWctQl9JTzVrRlBiNHRWSG5rQi1HNmwxWmtIcTJaY1l5VVAzTVY1RlRVd0Q5Mkg2Zm5wQ0FDYlhwelNGN2tLVWRQNU83LVV3OGlQYVlfdnlIZjgxWHBfVUtaM3ZXM0ZaQ0pDWC1sR3RVNG9Rc1dZQQ?oc=5",
-      "source": "Charity Watch",
-      "published_at": "2026-09-23T05:15:44+00:00",
-      "sentiment": "negative"
-    },
-    {
       "title": "Local jury finds Fort Campbell woman guilty in public corruption case - WHOP Radio \u2013 Hopkinsville, KY",
       "short_title": "Local jury finds Fort Campbell woman guilty in public corruption case - WHOP Radio \u2013 Hopkinsvi\u2026",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRDZEamV0MVRTM1VmeHViYlVxOTliTkpDUjVlOS10V2tTR3dJQ2xWeU5SWnkwNFM5cFZraG9kQktOQUd4Y1NhaHo0Umt2TWpuREo5RlBmVGFUWnZXTnJNTkx5OTVuOWJpemJVU2dlMFNQRmVQQmNmZnlGWUdpczNqYy1FRHBJQ3Y1VThJd1lGV2RYUGFiYk5Hd19rX3dhUW5VMGc?oc=5",
@@ -298,18 +274,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "Commission opens ethics investigation into Carroll County data center project - WHAS11",
-      "short_title": "Commission opens ethics investigation into Carroll County data center project - WHAS11",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQS0huUEJhaWZrclRLSWVQWUVyeXlleXBXRUMzOUMzOFNtdTFFbWdVcUkyM2taa0FyMGJuVXhSRVRCVTlmVXFqdG5MXzRhcWtZNnZwcl9PaTE4YmlWLUNvQmRVcXpPWlNickhlMkl1dXRJWUJwVTViNk50UVNobWUwZEhoQWpiYkhOZW5pWDJyTHNDYlhoNEprNU1WdnFwR1ZGckpqVHk0bnV2M0JaSXBTZU1NbkNfNXkwUmF5SnMzZlRZTG9OZVQxMHlKTGdGcV9LTW94NndKaEY5U1g0V0d0NXNQZldsUi1CM0gzbkNZdm9TUVdGZ3c?oc=5",
+      "title": "Carrollton ethics commission launches investigation into data center project - WHAS11",
+      "short_title": "Carrollton ethics commission launches investigation into data center project - WHAS11",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNLVg0VkRRa0lCdndoSExkNTRmaUVFRWp6Z1FRS2ROM2ZUUEhKY283TGtkSDFCV0t2c1dTTGhRYWxzZXNvcDlRbzJmRWU5clI1bnB3MGo2UGZ4MnFOMFlVVmFLNW5ETDhfdEhyRE45OXd4VmpoNmRmSThxNXZyUHFLTVI3ZjhSalpsWHgwVEZaQmcxdlpUZkM0OFdSUmpLOFQ3dnV4NHBsaDVYa3piVldadlRFc0hIYTUtLWVYQTBIc2JhenQ1a1Y5TkdwV0hLNjgxVERtcUlDZHBMVW9VVUVoVkpjMDlkUlZDUy1Tb1VB?oc=5",
       "source": "WHAS11",
-      "published_at": "2026-09-17T07:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Carrollton ethics commission launches investigation into data center project - Yahoo",
-      "short_title": "Carrollton ethics commission launches investigation into data center project - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjNXV0owRUFYWXFxZEZoYTJ1ZmVNTk1LaUlrQjhsMTNIOGpYM243TU4tc0xybnVFOFJyc1h2elJWUEhZbXVvTlFqdUF6UkxESmhHTm1yblFCcFpYTTZaSTNvZFBKd05BWkZHcF9kMFdBVmJ1OXF3QndlRC1mWnFiLWlSWFFGdVItUEZLVlpmbjNnV1Y1NkRIVFJNeUZJN0s0RlE?oc=5",
-      "source": "Yahoo",
       "published_at": "2026-09-17T07:00:00+00:00",
       "sentiment": "negative"
     },
@@ -362,11 +330,19 @@
       "sentiment": "negative"
     },
     {
-      "title": "Trayon White's bribery trial will be D.C.'s biggest courtroom drama in years - axios.com",
-      "short_title": "Trayon White's bribery trial will be D.C.'s biggest courtroom drama in years - axios.com",
+      "title": "Trayon White's bribery trial will be D.C.'s biggest courtroom drama in years - Axios",
+      "short_title": "Trayon White's bribery trial will be D.C.'s biggest courtroom drama in years - Axios",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeGdWQWIxV0gycWh2T3QweTA1MUxheHFTQ3lLVm1EMHZMNncwc0NCdjBXUjZNNHJnRnE1dWRQQUQxR0tVd1htMjVBUmMyUTNpSllaMVNCZFhlSlVtM0VKWTlzZmVPQ0xMLTZ6blhzLXFBWERucGUyR0hselM5am1fUTFWZmpWTHltZHhfYWlFdXRsTGRPT1dvUHVrVk8wSmJGVWpkSjJlVThfbVp6X1NFV0pfTHRHMURoTGM4cGtqTFJGcXJiSW53?oc=5",
-      "source": "axios.com",
+      "source": "Axios",
       "published_at": "2026-09-14T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Alcohol Giant's $12.5M Bribery Corruption Case Ensnares Inland Empire - Patch",
+      "short_title": "Alcohol Giant's $12.5M Bribery Corruption Case Ensnares Inland Empire - Patch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkp6UHk5VUV6amNvOEc5cnQzdEJrbDU4V1ZhMEplZnltZFBEV1JFTzlWQTNtQkJmYzFVblRmTWhiS200V1pfb2g5c1ZJcmpMeUFEa0pDMmNfTmFENWJSbjJaNlM5N1dYY2Q4MVMtcGFLNVlSMFhoR3kybVJtd0FBdkVPb0JMVEtJakR5MnUzLWRyVlI2YUxNbDlRQjVXVjJtT1ltUUNhVVk?oc=5",
+      "source": "Patch",
+      "published_at": "2026-09-11T07:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -450,10 +426,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "Cash buried in L.A. politician\u2019s backyard helped expose huge marijuana corruption scheme - latimes.com",
-      "short_title": "Cash buried in L.A. politician\u2019s backyard helped expose huge marijuana corruption scheme - lat\u2026",
+      "title": "Cash buried in L.A. politician\u2019s backyard helped expose huge marijuana corruption scheme - Los Angeles Times",
+      "short_title": "Cash buried in L.A. politician\u2019s backyard helped expose huge marijuana corruption scheme - Los\u2026",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHpnb1h2TlhPdU9QQmdDNUZQc2IwWndmRkdNdEFCRmhfMlNGc29JcHFndWVoWmI4SlpxZVVmWVJ4cG10dDh1RjBjVWVhUnBuYUpZQjNLeWwtMEVFT1RwbXJhWDV4bm9QMHJ3TWR3eVdQMkNEMVFVUXQtcWljOU1pT09HWUhGOHMtYnBMdEljS0x4dU8tbWhHcDJ6YnItQ25oM0RrZnV3?oc=5",
-      "source": "latimes.com",
+      "source": "Los Angeles Times",
       "published_at": "2026-08-28T07:00:00+00:00",
       "sentiment": "negative"
     },
@@ -480,6 +456,30 @@
       "source": "The Florida Trident",
       "published_at": "2026-08-26T07:00:00+00:00",
       "sentiment": "negative"
+    },
+    {
+      "title": "Westminster councilmember sees bribery charge dropped after completing diversion program - Orange County Register",
+      "short_title": "Westminster councilmember sees bribery charge dropped after completing diversion program - Ora\u2026",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORG5hZVFtaHMzaWZpVS1GQzFBOEpRV2t0V1Q4VkEwVVVhQ1pHaHFHcWhmelpTWmt5SnFyai00dFAwb1hJM29pc01mV0lkQmFncGtpTk9ER3RzNzA2akRvV3MtdUpCTGVSY1FSNGxzQllHbzAwd0xVRGFEc1pGaDcyb1R3cjRLbExkNzJtWl9hUmhHa3gwRG9FSGRxVW5BWDByLTN1T2NoeTVsV3Iyc0gzUzhRSnZuLWhtMkFLcDFWeXdmcUpUalE?oc=5",
+      "source": "Orange County Register",
+      "published_at": "2026-08-26T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Southern California councilmen get federal prison time for bribery - KTLA",
+      "short_title": "Southern California councilmen get federal prison time for bribery - KTLA",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYll2TTFYR1h6QlBqbzhmRWQtLUUxUXZNbm1xVVJZZXNwa1BiTUhYMURBNlZfeGVPY1d3NjE4d05yMXFVYVVLZC11b3Rka1MxNjZRQ3RxWWhGQ0hmRVZCMkdKVTdTX1phVWZKWm9NRXN4TkNMVWV3T3pLSzVSMFUtRk1hbFh4UEZLT1ZRWXF2bC1ibC0wNndaY0lVNmpwanBjR2fSAacBQVVfeXFMTXg1MzdoMTBQNHk5dzF5d0dvdWJtaEV0Qk54b2V6RWNWc0h1MjloelgyNm1vaVo3WUVvQXlfYjFYTkJaUlVEZGZxcEc3VldQNC1rUERtYXBkeDdDeW5tcWdrOEt3b0J2UkZiUS15aHVQNWoydGpfYmFfMzJTM1pzYVdJSTdjOEFyY1dhQ3ZhWC1BRHdMb1NTNXpGam5pTU1nbE1iX1oyajA?oc=5",
+      "source": "KTLA",
+      "published_at": "2026-08-25T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Former Baldwin Park, Compton councilmen heading to prison in bribery schemes - Hey SoCal. Change is our intention.",
+      "short_title": "Former Baldwin Park, Compton councilmen heading to prison in bribery schemes - Hey SoCal. Chan\u2026",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOVI2MWkzQ2g2aWNtX2xhVWY1aU9semFVT0xxa1ZXVkprMkpXWHdDZFhqN1dOUjNaMnRTbHgtSnF1bC1ORHFIVmI2eElvdzl5VUxzc3p5REhESDFiRXZRQS1xWTQ1NkU2NWk1bzZ6QUpUVUZOWnZpNTNpUEJ3TFNERWtic09DNjl1cUQxck1jSXBmZW1VanQ2a1ExSUd5YlRlVjUweURfV0U0YWY1?oc=5",
+      "source": "Hey SoCal. Change is our intention.",
+      "published_at": "2026-08-25T07:00:00+00:00",
+      "sentiment": "negative"
     }
   ],
   "nonprofit": [
@@ -500,27 +500,11 @@
       "sentiment": "negative"
     },
     {
-      "title": "Charity Founder Can't Withdraw Fraud, Tax Evasion Plea - Law360",
-      "short_title": "Charity Founder Can't Withdraw Fraud, Tax Evasion Plea - Law360",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbC11TGhBYzNhcWZvSkxkRURVcGdGVC1FMWZVeTVkRFYzUnI4R2czSWI1OXRqSVdwYlBPZ3RSOW41TVlyZS10N3NUUmVMQlJmU2NrZ25MREZobGtXdUN1SmVqc05Jam5xVE5CXzR1X1VzRTYzSGRCNHBjVm1KN2RrMHMzY0hYUmhBMXNsdW9vUllTT0xfa09OVUQyaTlnWV8xUUV0b0N5LVV4TjjSAWhBVV95cUxPbzdxRlVyMG5jQ1VTX2NWSkNwWWdvWHNmMHdyZUprMGk5bE5KdXhmdExKenNGQldPY0wwWGVvdWUxMFNZSUNxNnhyallWaUJIN1h5YmlIS3EteDEwWEFNRWJJcENjLWNkUA?oc=5",
-      "source": "Law360",
-      "published_at": "2026-09-25T21:44:31+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Johnstown man sentenced to house arrest for role in charity fraud case - WTAJ",
-      "short_title": "Johnstown man sentenced to house arrest for role in charity fraud case - WTAJ",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON1AwSVUyMlVHSWctYnhPbVZTNUhsekEtWFJVUTdqSWZTdEVuMGhhZ0xSQVpiVW5kVXF6Wjg1VkNoZW14YXVwUDBncEZaX3pCMmN3c3NFQW5jMnpFOVBLM3Q0dHdpZjRkWFZSWVBFUXNuVWZFT1ZpeXB5b1dncVhvYWFYZ25NLV8zbHVoeXY3NzFYTV9OMHU4dGhCcUtkMVEwSmIzeGs3Sjl4TnNxQ2k3QU1DVkNTNmJtVXfSAb8BQVVfeXFMTXVhTmZnY3dEOUlabV9tUjA3aUxMcUhmcm9zb0ZpeDFlb2tSTVlFckVDcVpQRkRFQXZINzdXMzVmTUJGMkJPckNVNVpSYXhFSUpTSVp3c0JtRzg2MUlmWjVhRFN0b2ZfdnNtUzRmUnhaY3VnYXpQdmZ3YkdPUVhUODdoYzI3RklVTEk3b2VrQW53WUxpSDJIb3Z6YXZScjJKanJQb2FkM21CVV9pcmF0d1lKNUVtNG5STkg4ZmdYZVk?oc=5",
-      "source": "WTAJ",
-      "published_at": "2026-09-25T07:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Johnstown man sentenced to house arrest for role in charity fraud case - WTAJ",
-      "short_title": "Johnstown man sentenced to house arrest for role in charity fraud case - WTAJ",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTlFxSDFhUEtidEVvbGczZmh6Rm9DczJWSjZDY0EyZHhJR1JLcXNOYUJlR1N4ZWZiYUY3REZObXpINGlJOVQybVZRcUdqTk85cHJCYlp3bDlYdkhIUmxXVElseGdJMW92aUdxeVBMWkhZSjlNRzB1OWJTZlh5bzdQdlpNOHZpdjBCR2lFLVN0TDVSSTJLQjVsOE9pRnNWdjRjYUViRnBsTk5hTTA?oc=5",
-      "source": "WTAJ",
-      "published_at": "2026-09-24T18:37:06+00:00",
+      "title": "Call for Proposals: Fight Against Corruption under the Internal Security Fund - fundsforNGOs - Grants and Resources for Sustainability",
+      "short_title": "Call for Proposals: Fight Against Corruption under the Internal Security Fund - fundsforNGOs -\u2026",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNajN2TDNjZ0h2TGZtNEFINTVtQUpjMWZJd0twcWt0U0MxbUMwX3R0U1BSb0lGLWVQMGJaODdKeXlyZ1cta0J1ZEx1NU8xUi00UDI2MS1WZ1NmcFdaSlgyd0kwMUpWOUF2SVlQZnZsQjg2ZTdyaHhkTDNXU3BVMmNTSUFNdjc2RlBhSDZtalhCSHUyNXZCMy1HVVBpbFBSSzlENUpVYlNFaFhZQXU0bnJtOG10M2VhbWRLbHhRbWVCb2x6QXFQcGM3TVdJUdIB0AFBVV95cUxQQVFrNE5lRjJFMmp4MF83R05pWXl6MjNnbVZ3TnllTUVudzh3OXRYa19wY1REQ0JFWWgzbURoWmEzVnpvVVR0aTBVLXpvWFd5NldiOUVDRzF6VVU0T3hTdmNWTGhSX2dSRzJFclJyNXdtNlV2RlF3cXpMU0ZKM1BmSUk4bzB1Z2wwUjd5YW1kRlliYkNIemVFeDh5bElWOXlGZ3o2dnFmS0JGQzczSDdsWHhCYlBqRkZkRHpiY1BjTUdkcWxyMDhfM3NuR0I5OFhw?oc=5",
+      "source": "fundsforNGOs - Grants and Resources for Sustainability",
+      "published_at": "2026-09-24T07:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -529,30 +513,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbkpiaDBtaUlqWFd4cjc5RUsyYXVCQm9FSjFUaW40TjhyQnNhRWlaX1A3ZFRaVWVlVFByZFg0MTBQNEJPSG9XVi0zd1dIQXluR3l0Q1NnbjhFWUpLcG5ka2dkY3A3cnk1azl5ZFhOSWt4djZzWU5NTUdfcllGTFZuZnFNZV9mUVlKdzRWY01RYTRWU3I1WlM4Mm9helZUWTlpbFd5cU5Gc29xZ3BTaVZZY1lIUENfUQ?oc=5",
       "source": "Albuquerque Journal",
       "published_at": "2026-09-24T07:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "St. Louis pet charity fraud ends with $104,482 restitution orders - KTTN",
-      "short_title": "St. Louis pet charity fraud ends with $104,482 restitution orders - KTTN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnIxaE44WHpSVkV0THcyVkhfSFNmMkRrZkhfczUtYmRLNGY0VG9UZng4V01aZjNLai1LUHVRN0NtTVVaUXlGbGpFby1QTHN4OU5pQjRKeTlYendnckxacWllalZZQXE3ZjdPSTF1S2xJYTJjdUlTeGYzRlZJSE5YTlZiQ1U4R1JxT0phcw?oc=5",
-      "source": "KTTN",
-      "published_at": "2026-09-23T09:45:52+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Former Southern Poverty Law Center Official Arrested as Federal Fraud Case Expands - Charity Watch",
-      "short_title": "Former Southern Poverty Law Center Official Arrested as Federal Fraud Case Expands - Charity W\u2026",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3dyQ0Q1dmRMVDFOWEp0bk5XdTFMbGlwbHFNNW8yanJoaVpydlNMUzVYR3VKeWhkS1NHX1dGSkpEbkR5RWctQl9JTzVrRlBiNHRWSG5rQi1HNmwxWmtIcTJaY1l5VVAzTVY1RlRVd0Q5Mkg2Zm5wQ0FDYlhwelNGN2tLVWRQNU83LVV3OGlQYVlfdnlIZjgxWHBfVUtaM3ZXM0ZaQ0pDWC1sR3RVNG9Rc1dZQQ?oc=5",
-      "source": "Charity Watch",
-      "published_at": "2026-09-23T05:15:44+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Charity founder says he secretly gave FTX fraud figure Caroline Ellison a job - Business Insider",
-      "short_title": "Charity founder says he secretly gave FTX fraud figure Caroline Ellison a job - Business Insid\u2026",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbXZHVWktMkt6MWhxb21pZXRnNzBXeUtrTzZRVWZlUERpcXpSNU80RWNKOXh4TkQ4bTVuOU1VWVA4U2oxUE9ObzlSdmVZT3hpWklmbER5cEp2anBxd2o2eTNzN3ZYOE1MRW1jSTM4UXJjQlM1aE42Z0Y1MGk2TmhtYUw3c2U4LVhSQUhUNzVHeDVtVlhKc2JzSXpGcHh2UQ?oc=5",
-      "source": "Business Insider",
-      "published_at": "2026-09-11T07:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -588,10 +548,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "MP Mulyungi apologises to \u2018Life Water Canada\u2019, clears NGO of corruption claims - the-star.co.ke",
-      "short_title": "MP Mulyungi apologises to \u2018Life Water Canada\u2019, clears NGO of corruption claims - the-star.co.ke",
+      "title": "MP Mulyungi apologises to \u2018Life Water Canada\u2019, clears NGO of corruption claims - The Star, Kenya",
+      "short_title": "MP Mulyungi apologises to \u2018Life Water Canada\u2019, clears NGO of corruption claims - The Star, Ken\u2026",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbG1PNXJXNFFNMnpKSVdSM2lORHctdm0yVEFGb0ZkanV3cm9NWXNCcDhBWXJfbE9pNkF5czQ2UzY5dDNldjdoWkZhdTNOWXRrWlVpVFczSFBsRVNHYjY0MGJ4MFc0Snk4T0d4dDZ0dWNnOERpLTFPYVJSbk00WUNiOWJrYUp3emstUnM5VFNnR3NvVDRLVjdvM1dmbzlkZw?oc=5",
-      "source": "the-star.co.ke",
+      "source": "The Star, Kenya",
       "published_at": "2026-08-28T07:00:00+00:00",
       "sentiment": "negative"
     },
@@ -612,10 +572,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "Charity and Disaster Fraud Icon - fbi.gov",
-      "short_title": "Charity and Disaster Fraud Icon - fbi.gov",
+      "title": "Charity and Disaster Fraud Icon - FBI (.gov)",
+      "short_title": "Charity and Disaster Fraud Icon - FBI (.gov)",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUnp4bXk2Q1BCV3pEMDYyUXR5RFZuenFNWTlEWHpsNnZPQ05EY2hhYm9xRnB3dTQydTNRaEktN3BhYS1XbmdHdG5PcGZoMDVMSVJKR0NUdGRsZFYzcTM3UXk1cWQwaGcxdkVMTGpxQlZNenVXR1BLQ09vdS1pTDhzWWVfMlc?oc=5",
-      "source": "fbi.gov",
+      "source": "FBI (.gov)",
       "published_at": "2026-08-22T03:00:52+00:00",
       "sentiment": "negative"
     },
@@ -636,14 +596,6 @@
       "sentiment": "negative"
     },
     {
-      "title": "Sham charities, fake salaries alleged in $3.2m fraud probe \u2013 the biggest of its kind - Stuff",
-      "short_title": "Sham charities, fake salaries alleged in $3.2m fraud probe \u2013 the biggest of its kind - Stuff",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVIyZlFKdkZURlA3aDFjMkNjbW10SndiU3k3VkdZbHVYTDZiSDVMQkpJekZNek0zQklMYVhKQ0xTQXRKMjBnRzBWNkJLbVFoRkVpN0hGMEVaNkFlQndkMlV2NHpxVjAtLU1yWVpNWFhnb2VEejY2ZWs1OUp1dVV4Zmc4YVZsb1B6NTMycEROWmQyS081ekFpZk5aZXdYdFphQUZNSVpidHlCVnV5Q0J2RQ?oc=5",
-      "source": "Stuff",
-      "published_at": "2026-08-19T07:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
       "title": "Current, former Gyeonggi taekwondo association presidents referred on embezzlement charges - Korea JoongAng Daily",
       "short_title": "Current, former Gyeonggi taekwondo association presidents referred on embezzlement charges - K\u2026",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcU1hMUFoZmJtZHgwZndZUV9qM0R2QWtTOVpPUTFNcHFBUVhxT2VncW1zQWRaR0N4X0NBZkMwS1Z0WFlYVjhNaFVhTE1FeUhDSGttajlzQVFlaXc3VC0wZk02dlBKVDhfMkVuSVotdnFGdFlhRXlmNlI4ekZCQjVCWm9WSTU1WTBlbW9HVFpiU0dVSmJTS0NIWkc0SXEtSV96V1E5cXlZUTJHb25kWThxLXJrcXVwaE1OUXpYUGZNcGZDNDdSajNNbUxYcXlSN2tTcEIwOWJR?oc=5",
@@ -652,10 +604,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "Charity and Disaster Fraud - fbi.gov",
-      "short_title": "Charity and Disaster Fraud - fbi.gov",
+      "title": "Charity and Disaster Fraud - FBI (.gov)",
+      "short_title": "Charity and Disaster Fraud - FBI (.gov)",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObjFLVkQyUV9ha3N3TWdJTnBXVS1EVUllYnpQb0o0NS00UDNrR09zNkhTS0RUNExwQy1FN0RvRm1MY24yaXAtY1BkVVZHS19OSHZvSDBKWkVhODdUMXN0RzY1R1BsWXI4WnFKTG51Nl91aU9KR1Fpd1dORGxJUFdBc1pVM1dJdC01RGRuMkZsRkhTOThP?oc=5",
-      "source": "fbi.gov",
+      "source": "FBI (.gov)",
       "published_at": "2026-08-18T14:31:12+00:00",
       "sentiment": "negative"
     },
@@ -700,14 +652,6 @@
       "sentiment": "negative"
     },
     {
-      "title": "Charity treasurer jailed for \u00a3200,000 fraud - Third Sector",
-      "short_title": "Charity treasurer jailed for \u00a3200,000 fraud - Third Sector",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZHJlZEg3ci0yb0dGaGxsZDBEeUh0U3NEZXlILVBYb2trU0lrNEdmWGJ3emZoS2I2Zy0yN0RZWTZYdXdjSXpLQVZWQ29pekh5b3Ayb0ZhYWJTNzEzc1N4Wkh3SUlkR1FrNWpQc0YxLTFvY1dfSkhSUjc4Sm5SZTJ2VEI5NDQxV0wyMlpEbVp3dkhNSGt3bWc?oc=5",
-      "source": "Third Sector",
-      "published_at": "2026-08-11T07:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
       "title": "Berlin\u2019s prosecutor investigates former dental pension fund officials for embezzlement - Investment & Pensions Europe",
       "short_title": "Berlin\u2019s prosecutor investigates former dental pension fund officials for embezzlement - Inves\u2026",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaEFScUhEak5DM1ZBTkt6OFJVZFlib3pEQXIzdkJ6WXduNE00SVVXdDNac1pYZDNWbURia3kwWW9sSEdyenhkRnl1cTJUcGlaY2oyVHNNSnA3OE94c2xNSl83ZDBLb2VPa2M5RDRobU03MmY1NDFhVUtrZExjbmVZdEU0aG90ZFgxbVRLYmgzWENWNWxTTGFvWFhxME16d0tsUlVwcWJ0SFlJQ0xsOURuekU2ZWxpdWZhSjdGdjV0Qy1oVl9aNkE?oc=5",
@@ -737,22 +681,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUdTMTBCcU95TzZJcDlSU1pkdktrVzNtZksycl9yRmN5M0ZMOVhNT0lZRnRsNWhHYUl2RDBDYkktZEhucDhKd0J3QnBfSUNsV3J6VU9YcVAwZXQxR0tVa3ZibzNkem1MbTFRNV96ZGx2bk85ZXktaFdLRDlWUGhsdFNEcVBHa0lvbnlaNkdWOG5SVDdUVVdWWWQyWXVscTVYWlVsZUNjMkd1bnFUTW5WZi1B?oc=5",
       "source": "BusinessWorld Online",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "An ungodly tale in Godley, Texas: allegations of a prostitution ring, police corruption \u2014 and more - kera.org",
-      "short_title": "An ungodly tale in Godley, Texas: allegations of a prostitution ring, police corruption \u2014 and\u2026",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOemY2UUsxLWdVajFGZ3VGdXRvZkhJUEFsWFdHcnRZZWNsQlZuN0R3blpqVDA2R0p3OU41Y1Foc2FMeU9rRk9CdnVGYko3NnlDNXZzRjNuNEZteHByMWpRR3gwOEE1bXVfLS15X3ZkUXRFOEpQZ2FRa1Z6TkhpUmUxcC0zcEo5TzVoRUZ2eHhDa2NBSkJuUzBOVzd2dzA2RDJrT3NHbkxQWVJ6T3h6dlJjeng4NE1pWFM1bUNaSVhB?oc=5",
-      "source": "kera.org",
-      "published_at": "2026-08-03T07:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Fraud in the charity sector \u2013 what trustees and directors need to know - Penningtons Manches Cooper",
-      "short_title": "Fraud in the charity sector \u2013 what trustees and directors need to know - Penningtons Manches C\u2026",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLVJYQTFwSWZ1dTYzUk1MRU5HZ1dDTEpiangtMnNnZFM5T2F2X1JEOVVKQ1dvN1lHR0ppLXJMUmRNV0hza2UtVlNWU2pmRUNSbFNwWV9pTFZ3UllRcGVJdTJfLXI0MnRqZXpwOVhzYWM0NGFqdVRleHRwazFWekY1MDFUN0lnb0J2YWlQN3FJNWhWVFBGcHlvLWJfcmo3M2U1S250SGlHdk1SS3NrNXc?oc=5",
-      "source": "Penningtons Manches Cooper",
-      "published_at": "2026-07-31T07:00:00+00:00",
       "sentiment": "negative"
     },
     {
@@ -804,18 +732,18 @@
       "sentiment": "negative"
     },
     {
-      "title": "Alleged charity fraud case widens in T\u00fcrkiye as Ahbap probe grows - Daily Sabah",
-      "short_title": "Alleged charity fraud case widens in T\u00fcrkiye as Ahbap probe grows - Daily Sabah",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTUU0VFhUZ1p0LU9KdnlkdzdkdVlwbDRjc0Uyb28xNTNTcXBJOEtWUFBLRXNCeUpoNU9FZENoakx4ZWFfaGRnMXBVWExmNWxSdkJxcDg1dmI4cHRSMlQ3bHY3UzBSUmtOR0ZwNktEZVZRLTIyeGgwRkR1VnNTWncyUE1lY2ZDQ1BMS1c3OXIxai03dkZNZHNUU2dqMUF2djNDTGNVMkNtTXA?oc=5",
-      "source": "Daily Sabah",
-      "published_at": "2026-07-19T07:00:00+00:00",
+      "title": "Stephanie Chatfield sentenced in non-profit embezzlement case - WPBN",
+      "short_title": "Stephanie Chatfield sentenced in non-profit embezzlement case - WPBN",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWVFSVkdpUmdmUXhEdEJOaXduT0RkN2hzUkt2bkw1NXpkUHlTVkFpYkhCYnpmcDNORG5KeG1LYXZTQjE4Q2VPZm15REEyU1JmalRXbzN3UFhERkZtQnkyblFjRXoybV9RR3Y5cWQ4WHRlNFpjVW02VEt3NHEyYjd5RVJiN3pSQ2hFay1SN3l5Q3Jxblh1a2JZaEFZRmJ5dzVlejZxSUxxT1hQcTlSSm5UQ3Q0R3MwUnRZS2J6dUxuNHZ2U19QRlFYbkZiZTBfUm1UdF9mVXFVaEZ0bllfeG9GM0Rma1V6TGVfbG1vcFlfVFpNVFQt?oc=5",
+      "source": "WPBN",
+      "published_at": "2026-07-20T07:00:00+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Turkish Rock Star Charged With Financial Misconduct Over Charity Activities - balkaninsight.com",
-      "short_title": "Turkish Rock Star Charged With Financial Misconduct Over Charity Activities - balkaninsight.com",
+      "title": "Turkish Rock Star Charged With Financial Misconduct Over Charity Activities - Balkan Insight",
+      "short_title": "Turkish Rock Star Charged With Financial Misconduct Over Charity Activities - Balkan Insight",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOVNXd0R2VG5OSHozVGt4UjNIVVBXLTRYdGRZeGY5eW5JZGhSMjMyWEZseVU2VHhjTHpHamJXLXlvOUlVVF9NelU4Q3NyamxDS2JTRTA3QjlRbEM1LUx4UGxEUTBpQ1R3a09aU0F2aXJUelFjZWlNejU5Yi1VVWd0dzM0MV8xWWJiQTlvU1NIYjV0QmlrVzJTYWVUZ3FVRFRPZjY5OFdBclBDM2tJR2pzTU91Z2pvV1E?oc=5",
-      "source": "balkaninsight.com",
+      "source": "Balkan Insight",
       "published_at": "2026-07-16T07:00:00+00:00",
       "sentiment": "negative"
     },
@@ -852,14 +780,6 @@
       "sentiment": "negative"
     },
     {
-      "title": "Charity secretary jailed for \u00a3200,000 fraud - Third Sector",
-      "short_title": "Charity secretary jailed for \u00a3200,000 fraud - Third Sector",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3RCdU0zeUQ0NGRBTW5sMV9sV3gzeHBVN3FIa2tWR3dZdUtSM3Jnam9IakJNNXBjQ3l4c0RJSXhXQ19Kck9IaGFiUFhUOFZrY29TLTFfQ3FzMFdXc2pTaGpWZkc4VjNkQU4wUUR6MWlXUklaUEFtM21WVDVUMVdOMWhDd1BrNGFoUUd0MVdLTTBXVmFpNWc?oc=5",
-      "source": "Third Sector",
-      "published_at": "2026-07-02T07:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
       "title": "Fresno State Foundation requests extension on reforms, as longtime board members leave - Fresno Bee",
       "short_title": "Fresno State Foundation requests extension on reforms, as longtime board members leave - Fresn\u2026",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KRGN4TV9ndkwxRW5kbTM3aElXU21HZl9pMnBXSkhOZmVqeGlwTTI2SXBGWndsWE1GUkxXbTJzS3p6elFqSXNacnFQNGpEQlcwVHZOYmJjRkpvQ1hrdC1EWFQtTVVWdXY0bEHSAWpBVV95cUxNSHBoaUxxdGJ0LUJDVU5QTEU3eDhydGVwMDZUS2dCanhzdXdLXzJ6eXU3NUxBQ2RpakZRZVFvWmJyS0lUeUtoWDNFMEs5UXNqekVDOG1YaTZ3VEJkTUhObUU5RmpYZWpHdFFn?oc=5",
@@ -884,30 +804,6 @@
       "sentiment": "positive"
     },
     {
-      "title": "Sports club founder jailed for \u00a3700,000 gift aid fraud - civilsociety.co.uk",
-      "short_title": "Sports club founder jailed for \u00a3700,000 gift aid fraud - civilsociety.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObnpyUWphSFd2VDBlWDVmLTdLSlh3VGVPZGtjYzBJVkRpTm9PTUZkN2p2dGh0WERaemFETGc1SGpfMDE2TXZVTGh5aXg2bWxyX1VVZXNLLV9pcVJmUTNPX3o3OEhjNmJHa3FqWVJySF9DdldWeHp0OUczOVpzb05sUzlkX1oya0xBZ1A4aDYxUi1DSHRHLXNNOVRB?oc=5",
-      "source": "civilsociety.co.uk",
-      "published_at": "2026-06-25T07:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Devon woman guilty of \u00a3200K charity fraud - Devon Live",
-      "short_title": "Devon woman guilty of \u00a3200K charity fraud - Devon Live",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM3VkN3FEZHpURWZaamROMmpKR2diUWtYZllDWXNMVkptc3hoTjlYeE55VmNES0hITDhwV2ZIU3FYSDRYaXZjTjExbkFocTBsSm96RUpUdmlqeWk0N2lKZjEtSFF3XzV1UWJ6eHg3X1JGQ2Y0WTZmOTdsbVZDUGQ2T3dFc2N6eTd2dkHSAY8BQVVfeXFMUE5kUGFXSDAxbU55WDZQWEFYaEZqVmhxVTktSUt2S0lrTVNXcEhXbDN5TUlJLXk3QVBmMVhuQW5VZW1mTlU0Sldoa2EzdU1pR3lseFJPSzZzWWdIcF9YMVN0NHA4ZlBaZkVGR0tiamN2S3RrRVpOYm9tZ2xDWEplMGZneEhqb0RRYWdZNDBYeU0?oc=5",
-      "source": "Devon Live",
-      "published_at": "2026-06-21T07:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Former LA firefighters union official Adam Walker arrested, charged with stealing nearly $83,000 from nonprofit - ABC7 Los Angeles",
-      "short_title": "Former LA firefighters union official Adam Walker arrested, charged with stealing nearly $83,0\u2026",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEZiRW50aC1tZEVpZnk0OXltWEdOOElxUjRiQ0lZRmJFdmJuMl9mSThJOEM0TnVmaVJxb2dkcGE0OFJjVTBpUGVoem5lV2VkZTh4Ync0RXFtSndPcEJxdVdEajVRMVBsOXlPQWVZSy0zRTdQUnlxTmNlRnhpMjRXc1hyclVDNi0yNDBveTV1c2FEeTF5SG0tVS1mTDk0b2JzNHhjdWtwR3Jabzhtam1pM05xcl9zazhNdS1zMUtXekXSAcYBQVVfeXFMTTJXc3BSZFItTWZQMDVQbFJkRU56eXFGTUdUWk9zU2ZzUUdVTmQ4SGlZVnRRLVdPY2NQMFpzU3NyblBBYzA5QlVidGJYRU9pUzVwWF9vWjk1Smc1eHJzdFAzV01yQlpseWVRUENpOXJoR1lCaWlqclRfSW4wc2FoYWstZ0dmZG5JZThvMnVXTUF3d0lpbVFnS2JkY29ndC1HcGRYNWF4VjNGdlZtYVpaUlN4eFl5OVhtVk1oSDhlRjdYZ29kWHlR?oc=5",
-      "source": "ABC7 Los Angeles",
-      "published_at": "2026-06-17T07:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
       "title": "Fraud claims and a $400k sculpture: What a secret RSL report found - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
       "short_title": "Fraud claims and a $400k sculpture: What a secret RSL report found - ABC News & Headlines \u2013 Au\u2026",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORzFydmtsTl9HM1kxQ3A0M0dXcDh4ZXplS2FNM3FfVVRvTzk5ODZ4VnY3RW5uRjNqVmhrcThRX1NZZXdOV0hyN1VBNXVfSkVaSlRWVXZCLUFuVjlDR2RLUU1SUS1XNGpuVnpZaXhmOGRBazZXcDdRcjlYLW5ndXZrcEE1M2c2OVNxWmZGTHk0LTJUZEpMYTRSUzJMV2NMT192YlRGamVmWjFLOGZ1eC1jLXNB?oc=5",
@@ -924,26 +820,10 @@
       "sentiment": "negative"
     },
     {
-      "title": "Three more take plea deals in $760K Pennsylvania charity fraud case - WTAJ",
-      "short_title": "Three more take plea deals in $760K Pennsylvania charity fraud case - WTAJ",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2E4TXNJeng4UGJvdmJ6YXVKdDk1T1lrZjU4alBNLUptbUcwQWEtVWdlUG9wVi1GQlh6TnlvRll0eWhILXk3a0F6WUZmdEdsdHZfMnJZSkUxZUdwRndTZGY2RDhHM0MzN3YwUkFVY2FLSUJ3VUhERl85OVI3MmEtODRlWEF3YUxPV0dkcHR4c2lZTU9sY1dXcEhB0gGfAUFVX3lxTE9zWmMyRjZlSF81Si1IdnhYdkVmWmlkcjZmRERFcENJNWQ5S2JVUTdwMUVMQVR0WVBjbWlZVjZ2bWxSSGZYcUJJV2lHcHJnU1RJVXpWOERsMzJJUjh5TWJ3QmlCbExxX0JYRUdBZXZaT3JNYXVNckZqZXNuQlhGX1d4ZThCY2pYRXRpUk94WHZRVy05cWpXLW9lTmh3YTJYMA?oc=5",
-      "source": "WTAJ",
-      "published_at": "2026-06-10T07:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Charity helps recover \u00a31m for fraud victims - BBC",
-      "short_title": "Charity helps recover \u00a31m for fraud victims - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkcldMenZMajBRMXp6YTIzWjBRY3c3LWtOSmdWNm81WUQ0ekZFdko2NjRxMVVUeXdOaGlmVUc2OUZ2WHVfbzcxYnZSLWJvZkV5ajhZcEoxU3hBQy1E?oc=5",
-      "source": "BBC",
-      "published_at": "2026-06-10T07:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Okereke emerges as leading voice in governance, legislative reforms - thenationonlineng.net",
-      "short_title": "Okereke emerges as leading voice in governance, legislative reforms - thenationonlineng.net",
+      "title": "Okereke emerges as leading voice in governance, legislative reforms - The Nation Newspaper",
+      "short_title": "Okereke emerges as leading voice in governance, legislative reforms - The Nation Newspaper",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVGRUS0xKSVZhQm5Ecm1uU2E0cklUZ01Bc25uNkRreFdELTk3b0VveXhWbng5Q0piSXhrNVF6VWY1QUxqZHhlT0tlQmx4RnpWWGNTdlZ6b01LdVhYbVRhNTl4UWFhNmFBcVYwNF92d0E3eGdiN0c0eFlnUzRnM1RlWUdOVEhpTGdRbmg0bVlsbjRubmNMUUpZb0hpNGczZ9IBowFBVV95cUxQY3ItVWxqSDlDX3RwdkFEQ0dVNGRjVndjOTdfMXpPckdiNWV0Q01ZWVJhOWM4c2h2b0RyaWxDMmh3SXVxWWJlWF96SjhJODUzdmZqRkNjeEJZUmhLYlAzT3lPZjB3Y25vQ1FrZVFnb29kRU5DWmFwZXdsNEFEM3U0c0tGWkw3M0swLWxra3JtNHZoMm54V1RhZ0UxaVBoS3lYSUZ3?oc=5",
-      "source": "thenationonlineng.net",
+      "source": "The Nation Newspaper",
       "published_at": "2026-06-09T07:00:00+00:00",
       "sentiment": "positive"
     },
@@ -956,11 +836,131 @@
       "sentiment": "negative"
     },
     {
-      "title": "HSBC Swiss unit under probe in Lebanese fund embezzlement case \u2013 report - retailbankerinternational.com",
-      "short_title": "HSBC Swiss unit under probe in Lebanese fund embezzlement case \u2013 report - retailbankerinternat\u2026",
+      "title": "HSBC Swiss unit under probe in Lebanese fund embezzlement case \u2013 report - Retail Banker International",
+      "short_title": "HSBC Swiss unit under probe in Lebanese fund embezzlement case \u2013 report - Retail Banker Intern\u2026",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1VLYWpqMklaUmQzVjktZ1N6Q2M4SkI3VUlrb1NpVndleEN6UGY1ODRiaDE3WjlyYnJmeGV3cWp2NENuanUtQzBQR3l3b1FmNnE0MXNpa0FtbDJKeXpHblplZUhFcGx0RHJja2tfMXdqcDJWaEJLekxPQTI2dExta25XY2FfTGxBTms1V2lwNjZERzFm?oc=5",
-      "source": "retailbankerinternational.com",
+      "source": "Retail Banker International",
       "published_at": "2026-06-05T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "\u20b95 Crore Cheque Fraud: NGO Account Used for Fund Diversion - The420.in",
+      "short_title": "\u20b95 Crore Cheque Fraud: NGO Account Used for Fund Diversion - The420.in",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02UTVGdVhGMm05VnNaOUpwU185VmxTa0lpYlg2bC12N3Z5endnejlyenJyUEV4QXdVREY4WmhoMV9nbWJaZDRDQXVNSFZmWnRhQkhqcVk0WWFNbnhRYXpURkp3?oc=5",
+      "source": "The420.in",
+      "published_at": "2026-05-31T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Prosecutors open embezzlement probe into 2 ex-Ma foundation staff - Focus Taiwan - CNA English News",
+      "short_title": "Prosecutors open embezzlement probe into 2 ex-Ma foundation staff - Focus Taiwan - CNA English\u2026",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HN1pYc1g1bFE3NkN2QjFOdkFsdUphR1VBVFlCYnB6SE81QUVpTktsRjhBYlBrckw5VDJ3Rmg4Zy00VUVqREZ3V2YycGxpYjE3cVRGLTBGZw?oc=5",
+      "source": "Focus Taiwan - CNA English News",
+      "published_at": "2026-05-29T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Nonprofit fraud: Amid high-profile prosecutions, an accountant explains what\u2019s really going on - The Conversation",
+      "short_title": "Nonprofit fraud: Amid high-profile prosecutions, an accountant explains what\u2019s really going on\u2026",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWs5ZGZILUY2UjJwZGlTejNMSDRCX01RZHlYQ2Q3enRDdDk3cGJ5VVY5bjFkaGFFQmZrTTNRS3RBMGZJT0RmR1IwVEVOMUE0Z3pROVFMbE5aOTFBLTFxWENvcnRyRkxRa3FiRGVGblZzTnRvVzFxelloeTBhSzRRQzF1c09IN3A3d2hmNkdJOXZON0o4MS1hd29Tend0UEdlRWxBemVvMWZzeDJzUF92X2RHT2RlWXZ5eWZJcG9sUkg0MzQ0?oc=5",
+      "source": "The Conversation",
+      "published_at": "2026-05-21T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "U.S. African Development Foundation Referred for Investigation for Fraud & Corruption - House.gov",
+      "short_title": "U.S. African Development Foundation Referred for Investigation for Fraud & Corruption - House.\u2026",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaFVkU3lPeFBabm85ZWh1NzczNTEtbHJaN284Q3FpelFyOHV0RGRNdEM4aW50dW9JS2Zkb3RJR0RPc19oUlo0b2NGTkstcmNsVkVVZk1jLUNmZGJveXRoVGxFUWFHZm44WjRWeFdKcDNRTVBHM0lMN0x1NjFxOFRjdkJWTnlZVXBaOE56UEtIMXZWS0ZBQ0F3ejdZQ2NOaW56S2dYQWFzVmJfeWhsVWNsdQ?oc=5",
+      "source": "House.gov",
+      "published_at": "2026-05-11T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "HK college finance chief held for suspected fund embezzlement - chinadailyhk",
+      "short_title": "HK college finance chief held for suspected fund embezzlement - chinadailyhk",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tUFM3Q05YeGd5SFFGeGxoOHRrcG8zY0xZOUgwYlZCT21qUEVHdzZua2ZNZndhQlJ0YnZjWVNEOFJIcnhJSDBQbVVNWk1HZDkxckhtR1hwVUYxUQ?oc=5",
+      "source": "chinadailyhk",
+      "published_at": "2026-05-06T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Anti-Corruption Committee: group arrested in election bribery and charity ban case - Aysor.am",
+      "short_title": "Anti-Corruption Committee: group arrested in election bribery and charity ban case - Aysor.am",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BZEh6RWUwanN6WUJTSXlFWllhNWM4dHVzT2NBc0NQM3RaSXU1d1FCSGY5YTRaN3l0eXVGTnM1d3doekl0cDNDaVVYRWFkVDZMRnh3VnFpQzF2TWpINUlNR0l2am1aT3Z4ZXUzWWw0Q3BBMmo0aG9XNzQ3dDZVT0E?oc=5",
+      "source": "Aysor.am",
+      "published_at": "2026-04-29T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "MACC secures remand extension for preacher in RM12.3m NGO funds probe - Malay Mail",
+      "short_title": "MACC secures remand extension for preacher in RM12.3m NGO funds probe - Malay Mail",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMVc5WVZKN25kNjd5NWNmVm9HQ1BON2VXaThsNlhvamppSHhOUU44eWJuT1phSkpFYnkwbnVIRTd3a1dQMEYzdG55QXphVHZ1dV9JMGFBY3A2OUNrSXllUjdYV1h2NlJXem91VFRJemRrQmY5SjdhVWg4akxnZFdKbEgzNEJRLWpZMjNMWFJyMDU4Sk1YOXAtcFh1elZteXlyQ1o4M3pwWUFHZ290R3J3c0dPQ1d0cG1vUG5scjJtblNZSGRW0gHKAUFVX3lxTE54dmJocktwNGhVYklZdGxINEhNam5ydm1WcjVXa3dhSldSVldnRWwwVzd3V3FCR0k2bkJOc1RYczlZV3V2aXV1RlZRWUF4RFVXMzl2MVdvaThHZHh0U2hsZ3NTMlJoajRyNERNYnNiRGdUX0p2aVhGaWU0SnVOOXhtYVhmd0E5c1diRURmM2V5dzh0S2tVcFhRVTN0OE5adDFUekxDNEQtODNqWWd0MktNNS1IWDQxa3BXaEJsR0diN3B3UGg0YkhlUlE?oc=5",
+      "source": "Malay Mail",
+      "published_at": "2026-04-26T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "MACC identifies 40 witnesses in Selangor NGO probe - Malay Mail",
+      "short_title": "MACC identifies 40 witnesses in Selangor NGO probe - Malay Mail",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDZzRjZnb2lVZ0NrNVJKV0txT2d1ZjlEQVVCckJ0VTZiaHFwd0M1Z3ktNHJzc041RS1DcG9SRzV0NUVtZ254c3VUeV9lajBiazZqZUh3WXI3M2Q2ZWxIYWtmVTBDYWVGbDRsNFFfU1JLUE00WWV0WTEtT3hTRXBDS3dEMGNYX3NRWTdsSjBxSXdwRWliZ1RDbnZiTEdIS3dkSGN6X3JZZEdjREIw0gGyAUFVX3lxTE04RDZRRm9rNjY2WGU2QXBxX19pc213YlF1Vm9mT2NEQko1OGZfeGNCdkZUNWgyWFJScDkzYzZCVlotT1JXOGJKX0szY2Vkb2RQcXhnYk9yeFVJaTk4TzE3N0FzTVN1OXJxaVo0NENqSkFzczBjRnZyZXZvdkd0M2d4MjBGZ1FoTFhHellKU1dLeldvamxKX1JtVGUxQzR2dERlbVZOMENYMXZwMFBrR3NhcVE?oc=5",
+      "source": "Malay Mail",
+      "published_at": "2026-04-25T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "The Bal Mandir Land Scandal: From Charity Land to Corruption Case - Nepalnews.com",
+      "short_title": "The Bal Mandir Land Scandal: From Charity Land to Corruption Case - Nepalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObWw1Q3lsbXNqNGxnUTNGQXlYV0FCNnl6WHpGbnpUZFZFcTg4emtUUkV1UXEzc0NTQWM4OTZRZmVKUzZfUGU3UlRlZkpjSnl6V3ZESUN4OU5BNmhQV2UycjR3b283TUFvX0Nta2RmOWw3QlpKZnpOWktIWGVnWWhtSlRRaHZSQ0hZSWRXMkZ1YlAyckNiaHh2MFh5VjNEOFJkN09BUzNNd2VCbWFR?oc=5",
+      "source": "Nepalnews.com",
+      "published_at": "2026-04-24T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "MACC: Lapses in oversight enable NGO fund misuse - NST Online",
+      "short_title": "MACC: Lapses in oversight enable NGO fund misuse - NST Online",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeVZaUmI5SkV4bUpjZjVUUl8waEdKOE55MkplNENSd3JlN1lldl9US04xYVEtN25xNWNxZkJtUWtQUzlKRkltQ2dEdnVpV0ZEMk9KYzRiLVNqSmwwRVpvWi1oV1lfMUJrTHRjZjY2aWVtU19TbEsybmFXeE4zbEUzdVdUbzlLZHNmOFdybHBPQ1FnWVcwODRxWS1BQQ?oc=5",
+      "source": "NST Online",
+      "published_at": "2026-04-24T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "MACC seizes RM4 million in assets from preacher linked to NGO fraud - The Sun Malaysia",
+      "short_title": "MACC seizes RM4 million in assets from preacher linked to NGO fraud - The Sun Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVnJvUGE5VWpJTF9rVy1fSV9sYXVheGRWWW9EVnBHWS10aXlDTUJHS01mSXlEaUFGcDBJMUgxTy1ReGtvTUFLNUVXOVFUUEJxUTQ3eVp5Y2NXRmpZU29NSF9JVnJaS2doOFZ2REFRaWliUG5HeGZjcmJBWWZfb1hFdUtueTBxcUV1bTBEeGd4WURYYmw1Vy05ZVdfTlJEOWRjU0JpWUZLdkVac0k3OWxmWDhEUVJUQ3RPQV9R?oc=5",
+      "source": "The Sun Malaysia",
+      "published_at": "2026-04-23T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Two NGO figures remanded over RM230mil zakat fraud - The Star",
+      "short_title": "Two NGO figures remanded over RM230mil zakat fraud - The Star",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaFhBeHZDdUl3a0RONGdUZWJNNXY0TllZUkZXYklQSmFReDE2bGV4ZElJTzNZRkVMb1BmcU1EVW9lbWJHeWF2cjZTSlphMnphWFRXbDBTUmFqdFIwdE00UTduM2FyalRmMVhZLWw2R2VxWWNvV1Y0d3lKaG50YUdpRkFOTEc2SXRja25BcG1jVEljUHJIaXlYaEI2M1l2Z2cyZmc?oc=5",
+      "source": "The Star",
+      "published_at": "2026-04-23T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "NGO graft probe: MACC seizes about RM4mil in assets believed to belong to freelance preacher - The Star",
+      "short_title": "NGO graft probe: MACC seizes about RM4mil in assets believed to belong to freelance preacher -\u2026",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcU9LcWZ5dW0xRnpwMXZ5Sm1kd1dQMTc1ZjdWSzZfWWxwNDY2MmR0NzdxZ2V3Z190bWhRTDEtdnMxaFJySzJmZFhHSkJmWmhBVEUyWFNlOG5nMGNIZEJLNVl5VlQ4cDQxRnBySzFJb210YS1FYl9rWDRmX2c1Vl9VRzU5anhSQ2ZhN09vc3VSTTVWdVJhVThvQ1BjbXVGRVo4VnQ1bzFNOGJ5eHozdGxNSUhQTnY2YjlOTnQ2dEtxOXM0ZE5GTDdNVFVnR3lwQTZkSjdkdkI0S2k?oc=5",
+      "source": "The Star",
+      "published_at": "2026-04-23T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Preacher under probe as MACC seizes RM4mil in assets linked to NGO funds - NST Online",
+      "short_title": "Preacher under probe as MACC seizes RM4mil in assets linked to NGO funds - NST Online",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNEY2QXdmbHE4M1hhOThfZ19JV3NIWkR4amxkVWdLZ1h2QnlHSFowU3BFNzE4M2RNdUJGd20yMUhzWU12QU9aWTgxZXNtQmczdDBlVkY5MllOM1duci1EYm5ycF9aU1lNMnNsNFYtekw3ZUN0all3dlJob2NjVE9Ic2NtSEFKbnVHd2x5R2RaR1ZKWjZFM2thZGltSXdiMWQ5bENGcDJtdzV1am43dDVmZXV4Mlk?oc=5",
+      "source": "NST Online",
+      "published_at": "2026-04-23T07:00:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "MACC seizes RM18.3mil in properties over NGO fund probe [WATCH] - NST Online",
+      "short_title": "MACC seizes RM18.3mil in properties over NGO fund probe [WATCH] - NST Online",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkVkc2dibEgwQnp5Q2pxaS05QkhFd2I4Sms3QThvLS01TVg4aHJEWXlfSnM4bkR6S25MaHhQa0Z2b2lKQjQ5bWRlYTFET0Q1N2dwR2RDNEE0VXZkZEhzeEJ6dk5nVU9pdDZyUUdHY0tJSXdhek9oWV93SkNvYXFtUVV4eFo1Ml91aGM1amhuOWtLOVUydV9meHN0WktSbGprYjZzdGVYLTRaZzhP?oc=5",
+      "source": "NST Online",
+      "published_at": "2026-04-23T07:00:00+00:00",
       "sentiment": "negative"
     }
   ]
